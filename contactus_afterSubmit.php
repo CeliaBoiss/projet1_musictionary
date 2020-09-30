@@ -11,6 +11,7 @@
     <section>
         <h4>Merci <?php echo $_GET['name'] ?> pour ton message, nous revenons vers toi dans les plus brefs delais !</h4>
         <p id="timer">Tu seras redirigé vers l'accueil dans 10 seconde(s) ...</p>
+        <a href="index.php">Revenir tout de suite à l'accueil</a>
         <p>Récapitulatif de ton message :</p>
         <ul>
             <li>Ton nom : <?php echo $_GET['name'] ?></li>

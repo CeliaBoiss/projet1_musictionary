@@ -6,13 +6,20 @@
     <title>MusicTionary</title>
 </head>
 <body>
-    <?php include "header.php"?>
+    <?php include "header.php";       
+        header("refresh:15;url=index.php");?> 
     <section>
         <h4>Merci <?php echo $_GET['name'] ?> pour ton message, nous revenons vers toi dans les plus brefs delais !</h4>
+        <p id="timer"></p>
         <p>Récapitulatif de ton message :</p>
         <ul>
+            <li>Ton nom : <?php echo $_GET['name'] ?></li>
+            <li>Ton email : <?php echo $_GET['email'] ?></li>
+            <li>Le sujet : <?php echo $_GET['subject'] ?></li>
+            <li>Ton message : <?php echo $_GET['message'] ?></li>
         </ul>
     </section>
-    <?php include "footer.php"?>
+    <script src="contactus_afterSubmit.js"></script>
+    <?php include "footer.php";?>
 </body>
 </html>

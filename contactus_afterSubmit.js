@@ -1,17 +1,18 @@
 let myTimer = document.querySelector('#timer');
-let seconds = 15;
+let myInterval = null;
+let seconds = 10;
 
-function countDown(seconds)
+function removeSecond()
 {
     if (seconds >= 0) {
-        myTimer.innerHTML = seconds;
+        myTimer.innerHTML = "Tu seras redirigé vers l'accueil dans " + seconds + " seconde(s) ...";
+        seconds--;
     }
-    seconds--;
 }
 
+function countDown()
+{
+    myInterval = setInterval(removeSecond, 1000);
+}
 
-//const myInterval = setInterval(countDown, 1000);
-
-//myTimer.innerHTML = seconds;
-
-document.body.addEventListener('onload')
+document.body.addEventListener('load',countDown());

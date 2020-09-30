@@ -7,10 +7,10 @@
 </head>
 <body>
     <?php include "header.php";       
-        header("refresh:15;url=index.php");?> 
+        header("refresh:10;url=index.php");?> 
     <section>
         <h4>Merci <?php echo $_GET['name'] ?> pour ton message, nous revenons vers toi dans les plus brefs delais !</h4>
-        <p id="timer"></p>
+        <p id="timer">Tu seras redirigé vers l'accueil dans 10 seconde(s) ...</p>
         <p>Récapitulatif de ton message :</p>
         <ul>
             <li>Ton nom : <?php echo $_GET['name'] ?></li>

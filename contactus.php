@@ -7,11 +7,11 @@
 </head>
 <body>
     <?php include "header.php"?>
-    <form>
-        <input type="text" placeholder="Your name">
-        <input type="email" placeholder="Your email">
-        <input type="text" placeholder="The subject of your message">
-        <textarea placeholder="Your message"></textarea>
+    <form action="contactus_afterSubmit.php">
+        <input type="text" placeholder="Your name" name="name">
+        <input type="email" placeholder="Your email" name="email">
+        <input type="text" placeholder="The subject of your message" name="subject">
+        <textarea placeholder="Your message" name="message"></textarea>
         <button>Send !</button>
     </form>
     <?php include "footer.php"?>

@@ -28,7 +28,7 @@
     </section>
 
     <section title ='video'>
-    
+
         <iframe width="350" height="200s" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     
     </section>
@@ -36,10 +36,6 @@
     <section>
             <h2>Discover More</h2>
     </section>
-
-
-
-
 
 
 

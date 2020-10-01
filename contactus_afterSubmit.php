@@ -24,7 +24,8 @@
         </ul>
     </section>
     </main>
-    <script src="contactus_afterSubmit.js"></script>
     <?php include "footer.php";?>
+    <script src="contactus_afterSubmit.js"></script>
+    <script src="menuBurger.js"></script>
 </body>
 </html>

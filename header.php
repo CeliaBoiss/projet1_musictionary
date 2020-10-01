@@ -1,5 +1,10 @@
 <header>
-<h1>MusicTionary</h1>
+    <div class="container">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+    </div>
+    <h1>MusicTionary</h1>
     <nav>
         <ul>
             <li><a>Item 1</a></li>

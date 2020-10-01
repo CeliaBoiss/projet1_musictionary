@@ -14,10 +14,10 @@
         <a href="index.php">Revenir tout de suite à l'accueil</a>
         <p>Récapitulatif de ton message :</p>
         <ul>
-            <li>Ton nom : <?php echo $_GET['name'] ?></li>
-            <li>Ton email : <?php echo $_GET['email'] ?></li>
-            <li>Le sujet : <?php echo $_GET['subject'] ?></li>
-            <li>Ton message : <?php echo $_GET['message'] ?></li>
+            <li>Your name : <?php echo $_GET['name'] ?></li>
+            <li>Your email : <?php echo $_GET['email'] ?></li>
+            <li>Your subject : <?php echo $_GET['subject'] ?></li>
+            <li>Your message : <?php echo $_GET['message'] ?></li>
         </ul>
     </section>
     <script src="contactus_afterSubmit.js"></script>

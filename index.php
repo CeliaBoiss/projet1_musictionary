@@ -13,26 +13,35 @@
         <?php include "header.php"?>
         <main>
             <section title="articles" id="containerArticles">
-            <p id="desktopBorder">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                <p id="desktopBorder">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                 <div class="articleBorder">
-                    <h2> Thème</h2>
+                    <h2 class="mobileTitle">Thème</h2>
                     <article class="articleBlock">
+                        <div class="descriptive">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                        </div>
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
                     </article>
                 </div>
                 <div class="articleBorder">
-                    <h2> Thème</h2>
+                    <h2 class="mobileTitle">Thème</h2>
                     <article class="articleBlock">
+                        <div class="descriptive">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                        </div>
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
                     </article>
                 </div>
                 <div class="articleBorder">
-                    <h2> Thème</h2>
+                    <h2 class="mobileTitle">Thème</h2>
                     <article class="articleBlock">
+                        <div class="descriptive">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                        </div>
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">

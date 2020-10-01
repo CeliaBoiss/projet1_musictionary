@@ -8,29 +8,31 @@
 </head>
 <body>
     <?php include "header.php"?>
-    <section title="articles">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
-        <div>
-            <h2>Thème</h2>
-                <article>
-                    <img src="https://via.placeholder.com/75" alt="">
-                    <img src="https://via.placeholder.com/75" alt="">
-                    <img src="https://via.placeholder.com/75" alt="">
-                </article>
-             <h2>Thème</h2>
-                <article>
-                    <img src="https://via.placeholder.com/75" alt="">
-                    <img src="https://via.placeholder.com/75" alt="">
-                    <img src="https://via.placeholder.com/75" alt="">
-                </article>
-            <h2>Thème</h2>
-                <article>
-                    <img src="https://via.placeholder.com/75" alt="">
-                    <img src="https://via.placeholder.com/75" alt="">
-                    <img src="https://via.placeholder.com/75" alt="">
-                </article>
-        </div>
-    </section>
+    <main>
+        <section title="articles">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+            <div>
+                <h2>Thème</h2>
+                    <article>
+                        <img src="https://via.placeholder.com/75" alt="">
+                        <img src="https://via.placeholder.com/75" alt="">
+                        <img src="https://via.placeholder.com/75" alt="">
+                    </article>
+                <h2>Thème</h2>
+                    <article>
+                        <img src="https://via.placeholder.com/75" alt="">
+                        <img src="https://via.placeholder.com/75" alt="">
+                        <img src="https://via.placeholder.com/75" alt="">
+                    </article>
+                <h2>Thème</h2>
+                    <article>
+                        <img src="https://via.placeholder.com/75" alt="">
+                        <img src="https://via.placeholder.com/75" alt="">
+                        <img src="https://via.placeholder.com/75" alt="">
+                    </article>
+            </div>
+        </section>
+    </main>
     <?php include "footer.php"?>
 </body>
 </html>

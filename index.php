@@ -32,5 +32,6 @@
         </div>
     </section>
     <?php include "footer.php"?>
+    <script src="menuBurger.js"></script>
 </body>
 </html>

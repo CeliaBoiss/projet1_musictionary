@@ -1,0 +1,40 @@
+/* Elements de la page */
+
+
+.mainTitleGenre{
+
+    height: 200px;
+    width : 100%;
+}
+
+
+.mainTextePresentation{
+
+    border : 1px solid black;
+    margin : 20px;
+    padding : 5px;
+}
+
+ul li{
+    list-style-type: none;
+}
+   
+
+.video{
+    border-radius: 10px;
+}
+
+.discoverBlock{
+    display: flex;
+}
+
+.discoverBlockDisposition{
+
+    width: 300px;
+}
+
+article{
+ 
+    margin: 20px;
+    text-align: justify;
+}

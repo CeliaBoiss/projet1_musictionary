@@ -1,10 +1,10 @@
 <header>
     <nav class='sideNav' id="mySideNav">
-        <ul>
+        <ul class = "nav">
             <a href="javascript:void(0)" class="closeButton">&times;</a>
-            <li><a>Item 1</a></li>
-            <li><a>Item 2</a></li>
-            <li><a>Item 3</a></li>
+            <li class = "navLink"><a>Item 1</a></li>
+            <li class = "navLink"><a>Item 2</a></li>
+            <li class = "navLink"><a>Item 3</a></li>
         </ul>
     </nav>
     <div class="openButton">

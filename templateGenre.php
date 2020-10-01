@@ -8,55 +8,53 @@
     <link rel="stylesheet" type="text/css" href="templateGenreStyle.css"/>
 
 
-
 </head>
 <body>
     <?php include "header.php"?>
 
-    <section title = 'Genre'>
-        <img src="https://via.placeholder.com/75" alt="">
-    </section>
 
-    <section title ='texte'>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+    <section>
+        <p><img src="https://via.placeholder.com/75" alt="Main Title Genre" class="mainTitleGenre"></p>
+        <div class  = "mainTextePresentation">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+        </div>
     </section>
 
     <section title = 'Few exemples'>
-        <h3>Quelques exemples</h3>
+        <h3>Few Exemples</h3>
             <ul>
                 <li>Lorem ipsum dolor sit amet, consec</li>
                 <li>Lorem ipsum dolor sit amet, consec</li>
                 <li>Lorem ipsum dolor sit amet, consec</li>
             </ul>
-
-            <iframe width="350" height="200s" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <iframe width="350" height="200" CLASS = "video" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </section>
 
 
 	<section>
         <h2>Discover More</h2>
-		<div class="DiscoverFirstBlock">
-            <img src="https://via.placeholder.com/75" alt="">
-			<aside>
+		<div class="discoverBlock">
+            <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverBlockDisposition">
+			<article>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
-			</aside>	
+			</article>	
         </div>
     </section>
 
     <section>
-		<div class="DiscoverSecondBlock">
+		<div class="discoverBlock">
 			<article>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
 			</article>
-            <img src="https://via.placeholder.com/75" alt="">
+            <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverBlockDisposition">
 		</div>
 	</section>
 
     <section>
-		<div class="DiscoverThirdBlock">
-            <img src="https://via.placeholder.com/75" alt="">
+		<div class="discoverBlock">
+            <img src="https://via.placeholder.com/75" alt="Discover Photo" class  ="discoverBlockDisposition">
 			<article>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
 			</article>	

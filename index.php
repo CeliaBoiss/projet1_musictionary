@@ -6,6 +6,7 @@
     <link rel = "stylesheet" href = "mainStyle.css">
     <link rel="stylesheet" href="indexStyle.css">
     <link rel="stylesheet" href="menuBurger.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>MusicTionary</title>
 </head>
 <body>
@@ -59,5 +60,6 @@
     </main>
     <?php include "footer.php"?>
     <script src="menuBurger.js"></script>
+    <script src="searchBar.js"></script>
 </body>
 </html>

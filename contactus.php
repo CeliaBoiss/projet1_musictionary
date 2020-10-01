@@ -17,9 +17,7 @@
             <textarea placeholder="Your message" name="message"></textarea>
             <button>Send !</button>
         </form>
-    </main>
-
-    
+    </main>    
     <?php include "footer.php"?>
     <script src="menuBurger.js"></script>
 </body>

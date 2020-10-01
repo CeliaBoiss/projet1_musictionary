@@ -15,7 +15,7 @@
     <h1>MusicTionary</h1>    
     <div>
         <label for=""></label>
-        <input type="search" id="" name="">
-        <button>Search</button>
+        <input type="text" id="searchBar" name="search" placeholder="Search ...">
+        <button type ="submit" id="searchButton"><i class="fa fa-search"></i></button>
     </div>
 </header>

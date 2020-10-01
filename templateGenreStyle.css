@@ -24,17 +24,29 @@ ul li{
     border-radius: 10px;
 }
 
-.discoverBlock{
+.discoverFirstBlock{
     display: flex;
+    padding : 20px;
+
 }
 
-.discoverBlockDisposition{
+.discoverSecondBlock{
+    display: flex;
+    padding : 20px;
 
-    width: 300px;
 }
 
-article{
- 
-    margin: 20px;
-    text-align: justify;
+.discoverThirdBlock{
+    display: flex;
+    padding : 20px;
+
 }
+
+.discoverPicture{
+    margin: 10px;
+    padding: 5px;
+
+}
+
+
+

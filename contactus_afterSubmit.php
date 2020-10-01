@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel = "stylesheet" href = "mainStyle.css">
+    <link rel="stylesheet" href="menuBurger.css">
     <title>MusicTionary</title>
 </head>
 <body>
@@ -23,7 +24,8 @@
         </ul>
     </section>
     </main>
-    <script src="contactus_afterSubmit.js"></script>
     <?php include "footer.php";?>
+    <script src="contactus_afterSubmit.js"></script>
+    <script src="menuBurger.js"></script>
 </body>
 </html>

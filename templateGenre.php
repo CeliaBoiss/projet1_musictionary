@@ -4,11 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel = "stylesheet" href = "mainStyle.css">
-    <title>MusicTionary</title>
-
+    <link rel="stylesheet" href="menuBurger.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="templateGenreStyle.css"/>
-
-
+    <title>MusicTionary</title>
 </head>
 <body>
     <?php include "header.php"?>
@@ -63,5 +62,7 @@
     </main>
 
     <?php include "footer.php"?>
+    <script src="menuBurger.js"></script>
+    <script src="searchBar.js"></script>
 </body>
 </html>

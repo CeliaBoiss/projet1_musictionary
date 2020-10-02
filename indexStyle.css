@@ -35,7 +35,7 @@ body {
 
 .articleImg {
     border-radius: 10px;
-    width: 90px;
+    width: 20%;
     height: 90px;
     background-color: whitesmoke;
 }
@@ -67,7 +67,8 @@ body {
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        margin: 5%
+        margin: 5%;
+        font-size: 25px;
     }
 
     .mobileTitle {

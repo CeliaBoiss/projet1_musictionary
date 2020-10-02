@@ -16,17 +16,40 @@ main {
     margin : 0;
     padding : 0;
     flex : 1 0 auto;
+    align-self : center;
 }
 
 header {
     width : 100%;
     height : 180px;
+    max-width : 100vh;
+    align-self : center;
+}
+
+#titleAndBurger {
+    height : 80px;
+    margin : 15px 0 0 0;
+    display : grid;
+    grid-template-columns: 50px auto 50px;
+    grid-template-rows: 50 px;
+}
+
+.openButton {
+    margin : 8px 8px 0 8px;
 }
 
 h1 {
     text-align : center;
     color : rgb(199, 0, 0);
-    font-size : 50px;
+    font-size : 300%;
+    margin : 0 auto 0 auto;
+    padding : 0;
+    top : 0;
+}
+
+#searchSection {
+    display : flex;
+    justify-content : center;
 }
 
 .nav{
@@ -61,4 +84,12 @@ footer {
 
 a {
     color : white;
+}
+
+@media screen and (min-width : 812px) {
+
+    main {
+        max-width : 1400px;
+    }
+
 }

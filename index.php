@@ -15,7 +15,10 @@
             <section title="articles" id="containerArticles">
                 <p id="desktopBorder">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                 <div class="articleBorder">
-                    <h2 class="mobileTitle">Thème</h2>
+                    <div id="mobile">
+                        <h2 class="mobileTitle">Thème</h2>
+                        <p id="hide">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                    </div>
                     <article class="articleBlock">
                         <div class="descriptive">
                             <h2 class ="desktopTitle">Thème</h2>
@@ -55,5 +58,6 @@
         <?php include "footer.php"?>
         <script src="menuBurger.js"></script>
         <script src="searchBar.js"></script>
+        <script src="index.js"></script>
     </body>
 </html>

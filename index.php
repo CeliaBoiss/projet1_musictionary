@@ -18,6 +18,7 @@
                     <h2 class="mobileTitle">Thème</h2>
                     <article class="articleBlock">
                         <div class="descriptive">
+                            <h2 class ="desktopTitle">Thème</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                         </div>
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
@@ -29,6 +30,7 @@
                     <h2 class="mobileTitle">Thème</h2>
                     <article class="articleBlock">
                         <div class="descriptive">
+                            <h2 class ="desktopTitle">Thème</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                         </div>
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
@@ -40,6 +42,7 @@
                     <h2 class="mobileTitle">Thème</h2>
                     <article class="articleBlock">
                         <div class="descriptive">
+                            <h2 class ="desktopTitle">Thème</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                         </div>
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">

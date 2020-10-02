@@ -13,9 +13,8 @@
             <div class="bar2"></div>
             <div class="bar3"></div>
         </div>
-        <h1>MusicTionary</h1>   
+        <h1 id = "title">MusicTionary</h1>   
     </div>
-    <h1 id="title">MusicTionary</h1> 
     <div id = "searchSection">
         <label for=""></label>
         <input type="text" id="searchBar" name="search" placeholder="Search ...">

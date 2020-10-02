@@ -27,11 +27,12 @@
       <section title = "Few exemples">
           <h3>Few Exemples</h3>
               <ul>
-                  <li class = "chooseVideo" id = "firstVideoToDisplay">Lorem ipsum dolor sit amet, consec</li>
-                  <li class = "chooseVideo" id = "secondVideoToDisplay">Lorem ipsum dolor sit amet, consec</li>
-                  <li class = "chooseVideo" id = "thirdVideoToDisplay">Lorem ipsum dolor sit amet, consec</li>
+                  <li><a href = "" class = "chooseVideo" id = "firstVideoToDisplay">video1</a></li>
+                  <li><a href = "" class = "chooseVideo" id = "secondVideoToDisplay">video2</a></li>
+                  <li><a href = "" class = "chooseVideo" id = "thirdVideoToDisplay">video3</a></li>
+
               </ul>
-              <iframe width="350" height="200" class = "displayedVideo" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+              <iframe width="350" height="200" id = "displayedVideo" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </section>
 
       <section title = "discoverFirstBlock">

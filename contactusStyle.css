@@ -1,0 +1,29 @@
+form {
+    display : flex;
+    flex-direction : column;
+    width : 80vw;
+    max-width : 1000px;
+    align-items : center;
+}
+
+.contactInput {
+    width : 100%;
+    height : 1.5rem;
+    margin-bottom : 10px;
+    font-size : 1.3rem;
+}
+
+#contactMessage {
+    width : 100%;
+    height : 150px;
+    margin-bottom : 10px;
+    font-size : 1.3rem;
+}
+
+#sendButton {
+    align-self : flex-end;
+    width : 100px;
+    height : 1.5rem;
+    margin : 0;
+    padding : 0;
+}

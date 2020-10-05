@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel = "stylesheet" href = "mainStyle.css">
+    <link rel = "stylesheet" href = "aboutStyle.css">
     <link rel="stylesheet" href="menuBurger.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>MusicTionary</title>
@@ -17,30 +18,30 @@
 
         <article class = "member">
             <p class = "description right">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, adipisci at nulla, laudantium omnis corrupti cum architecto nobis unde quae, fugiat illum repellat odio! Numquam, nobis dolorem. Labore, voluptate. Quo!
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, adipisci at nulla.
             </p>
-            <img class = "profileImage left" src="https://via.placeholder.com/75" alt="">
+            <img class = "profileImage left" src="https://via.placeholder.com/90" alt="">
         </article>
 
         <article class = "member">
             <p class = "description left">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, adipisci at nulla, laudantium omnis corrupti cum architecto nobis unde quae, fugiat illum repellat odio! Numquam, nobis dolorem. Labore, voluptate. Quo!
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, adipisci at nulla.
             </p>
-            <img class = "profileImage right" src="https://via.placeholder.com/75" alt="">
+            <img class = "profileImage right" src="https://via.placeholder.com/90" alt="">
         </article>
 
         <article class = "member">
             <p class = "description right">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, adipisci at nulla, laudantium omnis corrupti cum architecto nobis unde quae, fugiat illum repellat odio! Numquam, nobis dolorem. Labore, voluptate. Quo!
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, adipisci at nulla.
             </p>
-            <img class = "profileImage left" src="https://via.placeholder.com/75" alt="">
+            <img class = "profileImage left" src="https://via.placeholder.com/90" alt="">
         </article>
 
         <article class = "member">
             <p class = "description left">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, adipisci at nulla, laudantium omnis corrupti cum architecto nobis unde quae, fugiat illum repellat odio! Numquam, nobis dolorem. Labore, voluptate. Quo!
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, adipisci at nulla.
             </p>
-            <img class = "profileImage right" src="https://via.placeholder.com/75" alt="">
+            <img class = "profileImage right" src="https://via.placeholder.com/90" alt="">
         </article>
     </main>
 

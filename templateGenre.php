@@ -36,26 +36,26 @@
         </section>
 
         <section title = "discoverFirstBlock">
-            <h2>Discover More</h2>
-            <div class="discoverFirstBlock">
-                <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
-                <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
-            </div>
-        </section>
+                <h2>Discover More</h2>
+                <div class="discoverFirstBlock">
+                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
+                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                </div>
+            </section>
 
-        <section title ="discoverSecondBlock">
-            <div class= "discoverSecondBlock">
-                <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
-                <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
-            </div>
-        </section>
+            <section title ="discoverSecondBlock">
+                <div class= "discoverSecondBlock">
+                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
+                </div>
+            </section>
 
-        <section title ="discoverThirdBlock">
-            <div class="discoverThirdBlock">
-                <img src="https://via.placeholder.com/75" alt="Discover Photo" class  ="discoverPicture">
-                <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>	
-            </div>
-        </section>
+            <section title ="discoverThirdBlock">
+                <div class="discoverThirdBlock">
+                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class  ="discoverPicture">
+                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>	
+                </div>
+            </section>
 
 
     <script src="templateGenreJS.js"></script>

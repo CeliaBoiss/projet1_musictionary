@@ -26,22 +26,13 @@
         <section title = "Few exemples">
             <h3>Few Exemples</h3>
             <ul>
-                <li><button class = "chooseVideo" id = "firstVideoToDisplay">video1</button></li>
-                <li><button class = "chooseVideo" id = "secondVideoToDisplay">video2</button></li>
-                <li><button class = "chooseVideo" id = "thirdVideoToDisplay">video3</button></li>
+                <li><button class = "chooseVideo" id = "firstVideoToDisplay"><p class = "artistName">artistArtist</p><p class = "songTitle">titleTitle</p></button></li>
+                <li><button class = "chooseVideo" id = "secondVideoToDisplay"><p class = "artistName">artistArtist</p><p class = "songTitle">titleTitle</p></button></li>
+                <li><button class = "chooseVideo" id = "thirdVideoToDisplay"><p class = "artistName">artistArtist</p><p class = "songTitle">titleTitle</p></button></li>
             </ul>
             <div id = "video">
                 <iframe width="350" height="200" id = "displayedVideo" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
-        </section>
-
-        <section title = "discoverFirstBlock">
-            <h2>Discover More</h2>
-            <div class="discoverFirstBlock">
-                <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
-                <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
-            </div>
-
         </section>
 
         <section title = "discoverFirstBlock">

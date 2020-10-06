@@ -58,3 +58,17 @@ ul li{
 
 }
 
+ul {
+    display : flex;
+    justify-content : space-around;
+    margin : 0 0 20px 0;
+    padding : 0;
+}
+
+.artistName {
+    margin : 0;
+}
+
+.songTitle {
+    margin : 0;
+}

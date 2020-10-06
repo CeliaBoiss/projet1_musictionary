@@ -10,8 +10,8 @@
     <title>MusicTionary</title>
 </head>
 <body>
-    <?php include "header.php";       
-        header("refresh:10;url=index.php");?> 
+    <?php header("refresh:10;url=index.php");
+        include "header.php";?> 
     <main>
         <section>
             <h4>Merci <?php echo $_GET['name'] ?> pour ton message, nous revenons vers toi dans les plus brefs delais !</h4>

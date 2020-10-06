@@ -1,11 +1,11 @@
 <header>
     <div id = "titleAndBurger">
         <nav class='sideNav' id="mySideNav">
+            <a href="javascript:void(0)" class="closeButton">&times;</a>
             <ul class = "nav">
-                <a href="javascript:void(0)" class="closeButton">&times;</a>
-                <li class = "navLink"><a>Item 1</a></li>
-                <li class = "navLink"><a>Item 2</a></li>
-                <li class = "navLink"><a>Item 3</a></li>
+                <li class = "navLink"><a class="link">Item</a></li>
+                <li class = "navLink"><a class="link">Item</a></li>
+                <li class = "navLink"><a class="link">Item</a></li>
             </ul>
         </nav>
         <div class="openButton">
@@ -18,6 +18,6 @@
     <div id = "searchSection">
         <label for=""></label>
         <input type="text" id="searchBar" name="search" placeholder="Search ...">
-        <button type ="submit" id="searchButton"><i class="fa fa-search"></i></button>
+        <button type ="submit" id="searchButton">🔍</button>
     </div>
 </header>

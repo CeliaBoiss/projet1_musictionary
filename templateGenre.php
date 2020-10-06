@@ -14,21 +14,34 @@
   
     <main>
 
-      <section title = "Genre">
-          <p><img src="https://via.placeholder.com/75" alt="Main Title Genre" class="mainTitleGenre"></p>
-          <div class  = "mainTextePresentation">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
-          </div>
-      </section>
+        <section title = "Genre">
+            <p><img src="https://via.placeholder.com/75" alt="Main Title Genre" class="mainTitleGenre"></p>
+            <div class  = "mainTextePresentation">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+            </div>
+        </section>
 
-      <section title = "Few exemples">
-          <h1>Few Exemples</h1>
+        <section title = "Few exemples">
+            <h3>Few Exemples</h3>
+            <ul>
+                <li><button class = "chooseVideo" id = "firstVideoToDisplay">video1</button></li>
+                <li><button class = "chooseVideo" id = "secondVideoToDisplay">video2</button></li>
+                <li><button class = "chooseVideo" id = "thirdVideoToDisplay">video3</button></li>
+            </ul>
+            <div id = "video">
+                <iframe width="350" height="200" id = "displayedVideo" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+        </section>
 
-              <iframe width="350" height="200" class = "displayedVideo" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-              <iframe width="350" height="200" class = "displayedVideo" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-              <iframe width="350" height="200" class = "displayedVideo" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <section title = "discoverFirstBlock">
+            <h2>Discover More</h2>
+            <div class="discoverFirstBlock">
+                <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
+                <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+            </div>
+
         </section>
 
         <section title = "discoverFirstBlock">

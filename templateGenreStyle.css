@@ -24,9 +24,13 @@ section h1{
 ul li{
     list-style-type: none;
 }
-   
 
-.displayedVideo{
+#video {
+    display : flex;
+    justify-content : center;
+}
+
+#displayedVideo{
     border-radius: 10px;
 }
 
@@ -53,9 +57,4 @@ ul li{
     padding: 5px;
 
 }
-
-
-@media screen and (min-width: 812px) {
-
-
 

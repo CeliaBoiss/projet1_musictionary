@@ -8,6 +8,8 @@ let urlFirst = "https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRd
 let urlSecond = "https://www.youtube.com/embed/6yCIDkFI7ew";
 let urlThird = "https://www.youtube.com/embed/N0zOkMBk7ik";
 
+const moreInfo= document.querySelector('#moreInfo');
+
 function showFirstVideo()
 {
     displayedVideo.src = urlFirst;
@@ -15,8 +17,6 @@ function showFirstVideo()
     secondVideo.style.fontWeight = "normal";
     thirdVideo.style.fontWeight = "normal";
 }
-
-firstVideo.addEventListener("click", showFirstVideo);
 
 function showSecondVideo()
 {
@@ -26,8 +26,6 @@ function showSecondVideo()
     thirdVideo.style.fontWeight = "normal";
 }
 
-secondVideo.addEventListener("click", showSecondVideo);
-
 function showThirdVideo()
 {
     displayedVideo.src = urlThird;
@@ -36,4 +34,19 @@ function showThirdVideo()
     thirdVideo.style.fontWeight = "bold";
 }
 
+function showMoreInfo()
+{
+    const myHiddenParagraph = document.querySelector('.hide');
+
+    if (myHiddenParagraph.style.display === "block") {
+        myHiddenParagraph.style.display = "none";
+    } else {
+        myHiddenParagraph.style.display = "block";
+    }
+}
+
+moreInfo.addEventListener("click", showMoreInfo);
+
+firstVideo.addEventListener("click", showFirstVideo);
+secondVideo.addEventListener("click", showSecondVideo);
 thirdVideo.addEventListener("click", showThirdVideo);

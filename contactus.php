@@ -14,10 +14,14 @@
     <main>
         <h2>Contact Us</h2>
         <form action="contactus_afterSubmit.php">
-            <input class = "contactInput" type="text" placeholder="Your name" name="name">
-            <input class = "contactInput" type="email" placeholder="Your email" name="email">
-            <input class = "contactInput" type="text" placeholder="The subject of your message" name="subject">
-            <textarea id = "contactMessage" placeholder="Your message" name="message"></textarea>
+            <label for = "name">What's your name?</label>
+            <input class = "contactInput"  id = "name" type="text" placeholder="Mick Jagger" name="name">
+            <label for = "email">What's your email adress?</label>
+            <input class = "contactInput" id = "email" type="email" placeholder="micky@rollingstones.cocaine" name="email">
+            <label for = "subject">Why do you contact us?</label>
+            <input class = "contactInput" id = "subject" type="text" placeholder="I can't get no satisfaction :(" name="subject">
+            <label for = "message">Enter your message here :</label>
+            <textarea id = "contactMessage" id = "message" placeholder="When I'm drivin' in my car, and the man come on the radio, he's tellin' me more and more about some useless information." name="message"></textarea>
             <button id = "sendButton">Send !</button>
         </form>
     </main>    

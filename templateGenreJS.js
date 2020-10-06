@@ -1,7 +1,4 @@
-
-
 let displayedVideo = document.querySelector("#displayedVideo");
-let chooseVideo = document.querySelector(".chooseVideo");
 
 let firstVideo =  document.querySelector("#firstVideoToDisplay");
 let secondVideo =  document.querySelector("#secondVideoToDisplay");
@@ -9,83 +6,34 @@ let thirdVideo =  document.querySelector("#thirdVideoToDisplay");
 
 let urlFirst = "https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG";
 let urlSecond = "https://www.youtube.com/embed/6yCIDkFI7ew";
-let urlThird = "https://youtu.be/Rtr92EENgAc";
+let urlThird = "https://www.youtube.com/embed/N0zOkMBk7ik";
 
-function showVideo(){
-    if (chooseVideo.value === firstVideo.value) {
-        displayedVideo.src = urlFirst;
-
-    } else if (chooseVideo.value === secondVideo.value) {          
-        displayedVideo.src = urlSecond;
-    } else if (chooseVideo.value === thirdVideo.value) {
-        displayedVideo.src = urlThird ;
-    }
+function showFirstVideo()
+{
+    displayedVideo.src = urlFirst;
+    firstVideo.style.fontWeight = "bold";
+    secondVideo.style.fontWeight = "normal";
+    thirdVideo.style.fontWeight = "normal";
 }
 
-chooseVideo.addEvenListener("click", showVideo);
+firstVideo.addEventListener("click", showFirstVideo);
 
-
-
-
-
-
-
-
-
-
-
-/*
-
-function showVideo(){
-    if (chooseVideo.value === firstVideo.value) {
-        displayedVideo.setAttribute("src" , "https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG");
-
-    } else if (chooseVideo.value === secondVideo.value) {          
-        displayedVideo.setAttribute("src" , "https://www.youtube.com/embed/6yCIDkFI7ew");
-    } else if (chooseVideo.value === thirdVideo.value) {
-        displayedVideo.setAttribute("src" , "https://youtu.be/Rtr92EENgAc");
-    }
+function showSecondVideo()
+{
+    displayedVideo.src = urlSecond;
+    firstVideo.style.fontWeight = "normal";
+    secondVideo.style.fontWeight = "bold";
+    thirdVideo.style.fontWeight = "normal";
 }
 
-chooseVideo.addEvenListener("click", showVideo);
+secondVideo.addEventListener("click", showSecondVideo);
 
-
-*/
-
-
-/*function showVideo(){
-    switch (chooseVideo) {
-        case "firstVideoToDisplay":
-            displayedVideo.src = "https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG";
-            break;
-        case "secondVideoToDisplay":
-            displayedVideo.src = "https://youtu.be/6yCIDkFI7ew";
-            break;
-        case "thirdVideoToDisplay":
-            displayedVideo.src = "https://youtu.be/Rtr92EENgAc";
-            break;
-
-    }
+function showThirdVideo()
+{
+    displayedVideo.src = urlThird;
+    firstVideo.style.fontWeight = "normal";
+    secondVideo.style.fontWeight = "normal";
+    thirdVideo.style.fontWeight = "bold";
 }
 
-chooseVideo.addEvenListener("click", showVideo);
-
-
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+thirdVideo.addEventListener("click", showThirdVideo);

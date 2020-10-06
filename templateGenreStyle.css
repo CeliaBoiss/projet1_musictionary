@@ -4,7 +4,7 @@
 .mainTitleGenre{
 
     height: 200px;
-    width : 100%;
+    width: 100%
 }
 
 
@@ -13,6 +13,12 @@
     border : 1px solid black;
     margin : 20px;
     padding : 5px;
+}
+
+/*Few exemples*/
+
+section h1{
+    font-size: 30px;;
 }
 
 ul li{
@@ -52,5 +58,21 @@ ul li{
 
 }
 
+ul {
+    display : flex;
+    justify-content : space-around;
+    margin : 0 0 20px 0;
+    padding : 0;
+}
 
+.artistName {
+    margin : 0;
+}
 
+.songTitle {
+    margin : 0;
+}
+
+#firstVideoToDisplay {
+    font-weight : bold;
+}

@@ -13,12 +13,11 @@
                 <li class = "navLink"><a class="link">Item</a></li>
             </ul>
         </nav>
-        
-        <h1 id = "title">MusicTionary</h1>
+        <h1 id="title"><a href="index.php">MusicTionary</a></h1>
     </div>
     <div id = "searchSection">
-        <label for=""></label>
+        <label for="searchBar"></label>
         <input type="text" id="searchBar" name="search" placeholder="Search ...">
-        <button type ="submit" id="searchButton"><i class="fa fa-search"></i></button>
+        <button type ="submit" id="searchButton">🔍</button>
     </div>
 </header>

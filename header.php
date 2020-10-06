@@ -18,6 +18,6 @@
     <div id = "searchSection">
         <label for=""></label>
         <input type="text" id="searchBar" name="search" placeholder="Search ...">
-        <button type ="submit" id="searchButton"><i class="fa fa-search"></i></button>
+        <button type ="submit" id="searchButton">🔍</button>
     </div>
 </header>

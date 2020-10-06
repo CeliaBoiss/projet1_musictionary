@@ -76,3 +76,13 @@ ul {
 #firstVideoToDisplay {
     font-weight : bold;
 }
+
+.hide {
+    display : none;
+}
+
+#clickInfo {
+    text-decoration: underline;
+    cursor: pointer;
+    color: blue;
+}

@@ -20,6 +20,12 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                <div id="moreInfo">
+                    <span id="clickInfo">More info ...</span>
+                    <p class="hide">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                    <p class="hide">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                    <p class="hide">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                </div>
             </div>
         </section>
 
@@ -39,13 +45,13 @@
                 <h2>Discover More</h2>
                 <div class="discoverFirstBlock">
                     <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
-                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. <a href="">Go further ...</a></p>
                 </div>
             </section>
 
             <section title ="discoverSecondBlock">
                 <div class= "discoverSecondBlock">
-                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. <a href="">Go further ...</a></p>
                     <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
                 </div>
             </section>
@@ -53,7 +59,8 @@
             <section title ="discoverThirdBlock">
                 <div class="discoverThirdBlock">
                     <img src="https://via.placeholder.com/75" alt="Discover Photo" class  ="discoverPicture">
-                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>	
+                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. 
+                <a href="">Go further ...</a></p>	
                 </div>
             </section>
 

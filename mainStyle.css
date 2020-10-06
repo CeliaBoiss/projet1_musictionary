@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    height : calc(100% - 80px);
+    height : calc(100% - 90px);
     background-color: rgba(0, 0, 0, 0.856);
     color : white;
     padding : 0;
@@ -50,7 +50,12 @@ h1 {
 h2 {
     font-size : 3rem;
     text-align : center;
-    margin : 0 0 60px 0;
+    margin : 10px 0 10px 0;
+}
+
+h3 {
+    text-align : center;
+    font-size : 2rem;
 }
 
 #searchSection {

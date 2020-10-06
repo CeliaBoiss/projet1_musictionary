@@ -18,9 +18,13 @@
 ul li{
     list-style-type: none;
 }
-   
 
-.video{
+#video {
+    display : flex;
+    justify-content : center;
+}
+
+#displayedVideo{
     border-radius: 10px;
 }
 

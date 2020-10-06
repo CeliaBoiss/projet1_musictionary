@@ -15,9 +15,9 @@
             <section title="articles" id="containerArticles">
                 <p id="desktopBorder">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                 <div class="articleBorder">
-                    <div id="mobile">
+                    <div id="mobile1">
                         <h2 class="mobileTitle">Thème</h2>
-                        <p id="hide">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                        <p id="hide1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                     </div>
                     <article class="articleBlock">
                         <div class="descriptive">
@@ -30,7 +30,10 @@
                     </article>
                 </div>
                 <div class="articleBorder">
-                    <h2 class="mobileTitle">Thème</h2>
+                    <div id="mobile2">
+                        <h2 class="mobileTitle">Thème</h2>
+                        <p id="hide2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                    </div>
                     <article class="articleBlock">
                         <div class="descriptive">
                             <h2 class ="desktopTitle">Thème</h2>
@@ -42,7 +45,10 @@
                     </article>
                 </div>
                 <div class="articleBorder">
-                    <h2 class="mobileTitle">Thème</h2>
+                    <div id="mobile3">
+                        <h2 class="mobileTitle">Thème</h2>
+                        <p id="hide3">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                    </div>
                     <article class="articleBlock">
                         <div class="descriptive">
                             <h2 class ="desktopTitle">Thème</h2>

@@ -48,6 +48,11 @@ h1 {
     top : 0;
 }
 
+#title a {
+    color : rgb(199, 0, 0);
+    text-decoration: none;
+}
+
 h2 {
     font-size : 3rem;
     text-align : center;

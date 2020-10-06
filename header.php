@@ -13,10 +13,10 @@
             <div class="bar2"></div>
             <div class="bar3"></div>
         </div>
-        <h1 id = "title">MusicTionary</h1>   
+        <h1 id="title"><a href="index.php">MusicTionary</a></h1>   
     </div>
     <div id = "searchSection">
-        <label for=""></label>
+        <label for="searchBar"></label>
         <input type="text" id="searchBar" name="search" placeholder="Search ...">
         <button type ="submit" id="searchButton">🔍</button>
     </div>

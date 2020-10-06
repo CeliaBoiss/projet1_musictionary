@@ -4,6 +4,7 @@
     justify-content: center;
     text-align: center;
     margin: 5%;
+    
 }
 
 .mobileTitle {
@@ -14,6 +15,7 @@
     border: 1px solid whitesmoke;
     border-radius: 10px;
     margin-bottom: 2rem;
+
 }
 
 .articleBlock {
@@ -26,7 +28,21 @@
 
 .descriptive {
     display: none;
+    
 }
+
+#themeColor1 {
+    background-color: #676FE8;
+}
+
+#themeColor2 {
+    background-color: #379683 ;
+}
+
+#themeColor3 {
+    background-color: #C899D5;
+}
+
 
 #hide1 {
     display: none;

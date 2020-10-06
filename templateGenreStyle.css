@@ -4,7 +4,7 @@
 .mainTitleGenre{
 
     height: 200px;
-    width : 100%;
+    width: 100%
 }
 
 
@@ -15,12 +15,18 @@
     padding : 5px;
 }
 
+/*Few exemples*/
+
+section h1{
+    font-size: 30px;;
+}
+
 ul li{
     list-style-type: none;
 }
    
 
-.video{
+.displayedVideo{
     border-radius: 10px;
 }
 
@@ -47,6 +53,9 @@ ul li{
     padding: 5px;
 
 }
+
+
+@media screen and (min-width: 812px) {
 
 
 

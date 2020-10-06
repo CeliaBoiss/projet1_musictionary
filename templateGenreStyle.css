@@ -72,3 +72,7 @@ ul {
 .songTitle {
     margin : 0;
 }
+
+#firstVideoToDisplay {
+    font-weight : bold;
+}

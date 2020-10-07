@@ -4,9 +4,9 @@ let firstVideo =  document.querySelector("#firstVideoToDisplay");
 let secondVideo =  document.querySelector("#secondVideoToDisplay");
 let thirdVideo =  document.querySelector("#thirdVideoToDisplay");
 
-let urlFirst = "https://www.youtube.com/embed/T38v3-SSGcM";
-let urlSecond = "https://www.youtube.com/embed/aJg4OJxp-co";
-let urlThird = "https://www.youtube.com/embed/O4irXQhgMqg";
+let urlFirst = "https://www.youtube.com/embed/Ixrje2rXLMA";
+let urlSecond = "https://www.youtube.com/embed/eVL4sLeFkBY";
+let urlThird = "https://www.youtube.com/embed/dBN86y30Ufc";
 
 const moreInfo= document.querySelector('#moreInfo');
 

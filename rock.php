@@ -6,7 +6,7 @@
     <link rel = "stylesheet" href = "mainStyle.css">
     <link rel="stylesheet" href="menuBurger.css">
     <link rel="stylesheet" type="text/css" href="templateGenreStyle.css"/>
-    <link rel="stylesheet" href="rockStyle.css">
+    <link rel="stylesheet" href="templateBlueStyle.css">
     <title>MusicTionary</title>
 </head>
 <body>
@@ -17,20 +17,18 @@
         <section title = "Genre">
             <p><img src="Images/rockMain.jpg" alt="Main Title Genre" class="mainTitleGenre"></p>
             <div class  = "mainTextePresentation">
-                <p>Le rock est un genre musical apparu dans les années 1950 aux États-Unis et qui s'est développé en 
-                différents sous-genres à partir des années 1960.</p>
-                <p>Il prend ses racines dans le rock 'n' roll des années 1940 et 1950, lui-même grandement influencé 
-                par le rhythm and blues et la country.</p>
-                <p>Son influence culturelle est désormais prééminente dans l'industrie musicale, et se diffuse également 
-                dans d'autres arts (cinéma, bande dessinée, mode vestimentaire). </p>
+                <p>Rock music is a broad genre of popular music that originated as "rock and roll" in the United States 
+                in the late 1940s and early 1950s, and developed into a range of different styles in the mid-1960s and 
+                later, particularly in the United States and the United Kingdom.</p>
+                <p>It has its roots in 1940s and 1950s rock and roll, a style which drew heavily from the genres of blues, 
+                rhythm and blues, and from country music.</p>
+                <p>Rock music also drew strongly from a number of other genres such as electric blues and folk, and 
+                incorporated influences from jazz, classical and other musical styles. </p>
                 <div id="moreInfo">
                     <span id="clickInfo">More info ...</span>
-                    <p class="hide">Le rock est caractérisé par une mélodie vocale dominante, souvent accompagnée par une 
-                    ou plusieurs guitares électriques, une guitare basse et une batterie ; il peut également être 
-                    accompagné de synthétiseurs/piano, de cuivres ou d'autres instruments.<br /><br />
-                    Les paroles, qui contiennent parfois des références à la sexualité et aux drogues, ont servi de 
-                    vecteur à des mouvements sociaux et culturels, comme les mods en Angleterre ou la contre-culture 
-                    hippie en Californie.</p>
+                    <p class="hide">For instrumentation, rock has centered on the electric guitar, usually as part of a 
+                    rock group with electric bass, drums, and one or more singers. Usually, rock is song-based music with 
+                    a 4/4 time signature using a verse–chorus form, but the genre has become extremely diverse.</p>
                 </div>
             </div>
         </section>
@@ -51,18 +49,18 @@
             <h2>Discover More</h2>
             <div class="discoverFirstBlock">
                 <img src="Images/rockMetal.jpg" alt="Discover Photo" class = "discoverPicture">
-                <p class = "discoverBlockDisposition">Metal - Ce rock est beaucoup plus musclé, avec des riffs 
-                puissants, un son de guitare saturé et souvent un tempo plus rapide.Il est caractérisé par un chant
-                la plupart du temps haut perché et parfois presque crié. 
+                <p class = "discoverBlockDisposition">Metal - bands developed a thick, massive sound, characterized 
+                by distortion, extended guitar solos, emphatic beats, and loudness. The lyrics and performances are 
+                sometimes associated with aggression. 
                 <a href="https://www.youtube.com/watch?v=W3q8Od5qJio" target="_blank">Go further ...</a></p>
             </div>
         </section>
         <hr class="blockSeparator" />
         <section title ="discoverSecondBlock">
             <div class= "discoverSecondBlock">
-                <p class = "discoverBlockDisposition">Punk - La musique, plus violente que celle du rock des années 1960, 
-                est simplifiée au profit des textes souvent lourds de messages rebelles dont les revendications se veulent
-                politiques. <a href="https://www.youtube.com/watch?v=wvu2-xQUNQI" target="_blank">Go further ...</a></p>
+                <p class = "discoverBlockDisposition">Punk - They typically produced short, fast-paced songs with 
+                hard-edged melodies and singing styles, stripped-down instrumentation, and often political, 
+                anti-establishment lyrics. <a href="https://www.youtube.com/watch?v=wvu2-xQUNQI" target="_blank">Go further ...</a></p>
                 <img src="Images/rockPunk.jpg" alt="Discover Photo" class = "discoverPicture">
             </div>
         </section>
@@ -70,9 +68,9 @@
         <section title ="discoverThirdBlock">
             <div class="discoverThirdBlock">
                 <img src="Images/rockPostRock.jpg" alt="Discover Photo" class  ="discoverPicture">
-                <p class = "discoverBlockDisposition">Post Rock - Ce rock incorpore des rythmes, des harmonies, et des mélodies 
-                qui ne se trouvent pas dans la tradition du rock. La majorité des groupes crée de la musique 
-                purement instrumentale. <a href="https://www.youtube.com/watch?v=mZTb8WxEW78" target="_blank">Go further ...</a></p>	
+                <p class = "discoverBlockDisposition">Post Rock - Post-rock is a form of experimental rock characterized by a 
+                focus on exploring textures and timbre over traditional rock song structures, chords, or riffs. 
+                <a href="https://www.youtube.com/watch?v=mZTb8WxEW78" target="_blank">Go further ...</a></p>	
             </div>
         </section>
         

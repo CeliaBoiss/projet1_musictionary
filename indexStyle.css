@@ -12,7 +12,6 @@
 }
 
 .articleBorder {
-    border: 1px solid whitesmoke;
     border-radius: 10px;
     margin-bottom: 2rem;
 }
@@ -68,7 +67,6 @@
         width : 100%;
         box-sizing: border-box;
         padding : 0 5% 0 5%;
-        border: 1px solid whitesmoke;
         border-radius: 10px;
         margin-bottom: 2rem;
     }
@@ -92,6 +90,7 @@
     }
 
     .descriptive {
+        font-family: 'lato';
         display: flex;
         justify-content: center;
         align-items: center;
@@ -102,6 +101,10 @@
 
     .mobileTitle {
         display: none;
+    }
+
+    p {
+        font-family: 'lato';
     }
 
     #desktopBorder {

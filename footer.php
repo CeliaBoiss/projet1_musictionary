@@ -1,6 +1,5 @@
 <footer>
-    <a href="#title">Return to the top</a>
-    <hr>
+    <a id="returnTop" href="#title">Return to the top</a>
     <div id = "footerFlexDiv">
         <ul class = "footerList">
             <li class = "footerLink"><a href="about.php">About Us</a></li>

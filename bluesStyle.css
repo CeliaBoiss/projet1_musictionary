@@ -1,0 +1,12 @@
+#firstVideoToDisplay {
+    background-color : rgba(0 , 0 , 255 , .12);
+}
+
+.mainTextePresentation {
+    background-color : rgba(0 , 0 , 255 , 0.12);
+    border : none;
+}
+
+.discoverBlockDisposition {
+    background-color : rgba(0 , 0 , 255 , 0.12);
+}

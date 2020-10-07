@@ -5,18 +5,18 @@
     background-color: rgba(255 , 155 , 0 , .40);
 } 
 
-.mainTextePresentation {
-    background-color : rgba(255 , 155 , 0 , .40);
-    border : none;
+#firstVideoToDisplay {
+    background-color : rgba(255 , 155 , 0 , 0.40);
 }
 
-#firstVideoToDisplay {
-    background-color : rgba(255, 155, 0, .40);
+
+.mainTextePresentation {
+    background-color : rgba(255 , 155 , 0 , 0.40);
+    border-radius: 10px;
 }
 
 
 .discoverBlockDisposition {
     background-color : rgba(255 , 155 , 0 , .40);
 }
-
 

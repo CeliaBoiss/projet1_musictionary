@@ -44,13 +44,13 @@
                 <div class="discoverFirstBlock">
                     <img src="Images/jazzBebop.jpg" alt="Discover Photo" class = "discoverPicture">
                     <p class = "discoverBlockDisposition">Bebop - This style, which leaves room for interpretation, is characterized by an often very fast tempo, dynamic phrasing and by the fact that it is not necessarily linked to the dance.
-                     <a href="https://www.youtube.com/embed/okZYCS_TCO8"  target="_blank">Go further ...</a></p>
+                     <a href="https://www.youtube.com/watch?v=okZYCS_TCO8&feature=emb_logo"  target="_blank">Go further ...</a></p>
                 </div>
             </section>
 
             <section title ="discoverSecondBlock">
                 <div class= "discoverSecondBlock">
-                    <p class = "discoverBlockDisposition">Free jazz - An experimental approach to jazz improvisation that developed in the late 1950s and early 1960s when musicians attempted to change or break down jazz conventions. <a href="https://www.youtube.com/watch?v=d0HB8ybKJzo">Go further ...</a></p>
+                    <p class = "discoverBlockDisposition">Free jazz - An experimental approach to jazz improvisation that developed in the late 1950s and early 1960s when musicians attempted to change or break down jazz conventions. <a href="https://www.youtube.com/watch?v=d0HB8ybKJzo" target="_blank">Go further ...</a></p>
                     <img src="Images/jazzFree.jpg" alt="Discover Photo" class = "discoverPicture">
                 </div>
             </section>
@@ -58,7 +58,7 @@
             <section title ="discoverThirdBlock">
                 <div class="discoverThirdBlock">
                     <img src="Images/jazzFusion.jpg" alt="Discover Photo" class  ="discoverPicture">
-                    <p class = "discoverBlockDisposition">Jazz fusion - A music genre that developed in the late 1960s when musicians combined jazz harmony and improvisation with rock music, funk, and rhythm and blues. <a href="https://www.youtube.com/watch?v=R0oY_47pwJ8">Go further ...</a></p>	
+                    <p class = "discoverBlockDisposition">Jazz fusion - A music genre that developed in the late 1960s when musicians combined jazz harmony and improvisation with rock music, funk, and rhythm and blues. <a href="https://www.youtube.com/watch?v=R0oY_47pwJ8" target="_blank">Go further ...</a></p>	
                 </div>
             </section>
 

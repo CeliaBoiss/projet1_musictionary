@@ -22,8 +22,6 @@
                    From funk, soul, pop, salsa and psychedelic genres, enriched by electronic orchestration including strings and brass and then synthesizers. 
                    The term derives from the French word "discothèque". Disco emerges as a response to the dominance of the rock scene and the stigmatization 
                    of dance music by the counterculture during this period.</p>
-
-                <p></p>
                 <div id="moreInfo">
                     <span id="clickInfo">More info ...</span>
                     <p class="hide">Often associated with a very prominent bass / drums rhythm, with arrangements of violins and brass and with vocals 
@@ -41,7 +39,7 @@
                 <li class = "genreList"><button class = "chooseVideo" id = "thirdVideoToDisplay">Village People<br>-<br>YMCA</button></li>
             </ul>
             <div id = "video">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/xFrGuyw1V8s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe id = "displayedVideo" width="350" height="200" src="https://www.youtube.com/embed/xFrGuyw1V8s" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </section>
                     

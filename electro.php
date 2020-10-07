@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="menuBurger.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="templateGenreStyle.css"/>
+    <link rel="stylesheet" type="text/css" href="templateOrangeStyle.css"/>
     <title>MusicTionary</title>
 </head>
 <body>
@@ -44,13 +45,13 @@
         <section title = "discoverFirstBlock">
                 <div class="discoverFirstBlock">
                     <img src="Images/house.png" alt="Discover Photo" class = "discoverPicture">
-                    <p class = "discoverBlockDisposition">The house is made up of a minimal rhythm, a bass line close to funk, to which are often added voices, sampled or not.<a href="">Go further ...</a></p>
+                    <p class = "discoverBlockDisposition">The house is made up of a minimal rhythm, a bass line close to funk, to which are often added voices, sampled or not. <a href="https://www.youtube.com/watch?v=OJ0WL4TJVCg" target="_blank">Go further ...</a></p>
                 </div>
             </section>
 
             <section title ="discoverSecondBlock">
                 <div class= "discoverSecondBlock">
-                    <p class = "discoverBlockDisposition">Trance is characterized by a tempo oscillating between 125 and 160 beats per minute (BPM), repetitive melodic phrases, and a rising and falling musical form.</a></p>
+                    <p class = "discoverBlockDisposition">Trance is characterized by a tempo oscillating between 125 and 160 beats per minute (BPM), repetitive melodic phrases, and a rising and falling musical form. <a href="https://www.youtube.com/watch?v=Zk3Inus-yh4" target="_blank">Go further ...</a></p>
                     <img src="Images/trance.jpg" alt="Discover Photo" class = "discoverPicture">
                 </div>
             </section>
@@ -58,7 +59,7 @@
             <section title ="discoverThirdBlock">
                 <div class="discoverThirdBlock">
                     <img src="Images/techno.jpg" alt="Discover Photo" class  ="discoverPicture">
-                    <p class = "discoverBlockDisposition">Techno is a genre of electronic music that emerged in the United States in the mid-1980s.<a href="">Go further ...</a></p>	
+                    <p class = "discoverBlockDisposition">Techno is a genre of electronic music that emerged in the United States in the mid-1980s. <a href="https://www.youtube.com/watch?v=SbZDaD00UXk" target="_blank">Go further ...</a></p>	
                 </div>
             </section>
 

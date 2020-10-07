@@ -43,7 +43,7 @@
                 <li><button class = "chooseVideo" id = "thirdVideoToDisplay">The Rolling Stones<br />-<br />Paint it, Black</button></li>
             </ul>
             <div id = "video">
-                <iframe width="350" height="200" id = "displayedVideo" src="https://www.youtube.com/embed/T38v3-SSGcM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <iframe width="350" height="200" id = "displayedVideo" src="https://www.youtube.com/embed/T38v3-SSGcM" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </section>
 

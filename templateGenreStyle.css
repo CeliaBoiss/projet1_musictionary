@@ -68,6 +68,8 @@ ul {
     width : 30%;
     align-self : center;
     height : 100%;
+    display : flex;
+    justify-content : center;
 }
 
 .chooseVideo {

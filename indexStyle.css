@@ -30,15 +30,15 @@
 }
 
 #themeColor1 {
-    background-color: #676FE8;
+    background-color: rgba(102, 255, 0, 0.644);
 }
 
 #themeColor2 {
-    background-color: #379683 ;
+    background-color: rgba(0, 153, 255);
 }
 
 #themeColor3 {
-    background-color: #C899D5;
+    background-color: rgba(255, 155, 0);
 }
 
 
@@ -105,6 +105,7 @@
 
     p {
         font-family: 'lato';
+        font-size : 100%;
     }
 
     #desktopBorder {
@@ -116,6 +117,10 @@
     .articleImg:hover {
         cursor: pointer;
         filter: opacity(35%);
+    }
+
+    .desktopTitle {
+        font-size : 120%;
     }
     
 }

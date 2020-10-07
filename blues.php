@@ -59,7 +59,7 @@
             <section title ="discoverThirdBlock">
                 <div class="discoverThirdBlock">
                     <img src="Images/bluesGospel.jpg" alt="Discover Photo" class  ="discoverPicture">
-                    <p class = "discoverBlockDisposition">Gospel - Gospel groups were very popular within the black community, were virtually unknown to the white community, though some in the white community began to follow them. <a href="https://www.youtube.com/watch?v=xdzoeCuVs7w" target="_blank">Go further ...</a></p>	
+                    <p class = "discoverBlockDisposition">Gospel - Gospel groups were very popular within the black community, but were virtually unknown to the white community, though some in the white community began to follow them. <a href="https://www.youtube.com/watch?v=xdzoeCuVs7w" target="_blank">Go further ...</a></p>
                 </div>
             </section>
 

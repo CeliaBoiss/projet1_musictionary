@@ -17,10 +17,6 @@
 
 /*Few exemples*/
 
-section h1{
-    font-size: 30px;;
-}
-
 ul li{
     list-style-type: none;
 }
@@ -60,21 +56,23 @@ ul li{
 
 ul {
     display : flex;
-    justify-content : space-around;
+    justify-content : space-evenly;
     margin : 0 0 20px 0;
     padding : 0;
+    height : auto;
 }
 
-.artistName {
-    margin : 0;
+.genreList {
+    width : 30%;
+    align-self : center;
+    height : 100%;
 }
 
-.songTitle {
-    margin : 0;
-}
-
-#firstVideoToDisplay {
-    font-weight : bold;
+.chooseVideo {
+    border : none;
+    height : 100%;
+    color : white;
+    background-color : inherit;
 }
 
 .hide {
@@ -84,5 +82,4 @@ ul {
 #clickInfo {
     text-decoration: underline;
     cursor: pointer;
-    color: blue;
 }

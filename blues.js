@@ -4,16 +4,16 @@ let firstVideo =  document.querySelector("#firstVideoToDisplay");
 let secondVideo =  document.querySelector("#secondVideoToDisplay");
 let thirdVideo =  document.querySelector("#thirdVideoToDisplay");
 
-let urlFirst = "https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG";
-let urlSecond = "https://www.youtube.com/embed/6yCIDkFI7ew";
-let urlThird = "https://www.youtube.com/embed/N0zOkMBk7ik";
+let urlFirst = "https://www.youtube.com/embed/r4NK7bLnc6I";
+let urlSecond = "https://www.youtube.com/embed/NU5xA6ty0a4";
+let urlThird = "https://www.youtube.com/embed/5Bo3f_9hLkQ";
 
 const moreInfo= document.querySelector('#moreInfo');
 
 function showFirstVideo()
 {
     displayedVideo.src = urlFirst;
-    firstVideo.style.backgroundColor = "rgba(0 , 0 , 255 , 0.10)";
+    firstVideo.style.backgroundColor = "rgba(0 , 0 , 255 , 0.12)";
     secondVideo.style.backgroundColor = "inherit";
     thirdVideo.style.backgroundColor = "inherit";
 }
@@ -22,7 +22,7 @@ function showSecondVideo()
 {
     displayedVideo.src = urlSecond;
     firstVideo.style.backgroundColor = "inherit";
-    secondVideo.style.backgroundColor = "rgba(0 , 0 , 255 , 0.10)";
+    secondVideo.style.backgroundColor = "rgba(0 , 0 , 255 , 0.12)";
     thirdVideo.style.backgroundColor = "inherit";
 }
 
@@ -31,7 +31,7 @@ function showThirdVideo()
     displayedVideo.src = urlThird;
     firstVideo.style.backgroundColor = "inherit";
     secondVideo.style.backgroundColor = "inherit";
-    thirdVideo.style.backgroundColor = "rgba(0 , 0 , 255 , 0.10)";
+    thirdVideo.style.backgroundColor = "rgba(0 , 0 , 255 , 0.12)";
 }
 
 function showMoreInfo()

@@ -1,3 +1,7 @@
+main {
+    margin-top: 2rem;
+}
+
 form {
     display : flex;
     flex-direction : column;
@@ -11,6 +15,8 @@ form {
     height : 1.5rem;
     margin-bottom : 10px;
     font-size : 1.3rem;
+    font-family: 'lato';
+    padding: 5px;
 }
 
 #contactMessage {
@@ -27,3 +33,9 @@ form {
     margin : 0;
     padding : 0;
 }
+
+label{
+    font-family: 'lato';
+}
+
+

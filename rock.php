@@ -6,6 +6,7 @@
     <link rel = "stylesheet" href = "mainStyle.css">
     <link rel="stylesheet" href="menuBurger.css">
     <link rel="stylesheet" type="text/css" href="templateGenreStyle.css"/>
+    <link rel="stylesheet" href="rock.css">
     <title>MusicTionary</title>
 </head>
 <body>
@@ -47,27 +48,33 @@
         </section>
 
         <section title = "discoverFirstBlock">
-                <h2>Discover More</h2>
-                <div class="discoverFirstBlock">
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
-                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. <a href="">Go further ...</a></p>
-                </div>
-            </section>
+            <h2>Discover More</h2>
+            <div class="discoverFirstBlock">
+                <img src="Images/rockMetal.jpg" alt="Discover Photo" class = "discoverPicture">
+                <p class = "discoverBlockDisposition">Metal - Ce rock est beaucoup plus musclé, avec des riffs 
+                puissants, un son de guitare saturé et souvent un tempo plus rapide.Il est caractérisé par un chant
+                la plupart du temps haut perché et parfois presque crié. 
+                <a href="https://www.youtube.com/watch?v=W3q8Od5qJio" target="_blank">Go further ...</a></p>
+            </div>
+        </section>
 
-            <section title ="discoverSecondBlock">
-                <div class= "discoverSecondBlock">
-                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. <a href="">Go further ...</a></p>
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
-                </div>
-            </section>
+        <section title ="discoverSecondBlock">
+            <div class= "discoverSecondBlock">
+                <p class = "discoverBlockDisposition">Punk - La musique, plus violente que celle du rock des années 1960, 
+                est simplifiée au profit des textes souvent lourds de messages rebelles dont les revendications se veulent
+                politiques. <a href="https://www.youtube.com/watch?v=wvu2-xQUNQI" target="_blank">Go further ...</a></p>
+                <img src="Images/rockPunk.jpg" alt="Discover Photo" class = "discoverPicture">
+            </div>
+        </section>
 
-            <section title ="discoverThirdBlock">
-                <div class="discoverThirdBlock">
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class  ="discoverPicture">
-                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. 
-                <a href="">Go further ...</a></p>	
-                </div>
-            </section>
+        <section title ="discoverThirdBlock">
+            <div class="discoverThirdBlock">
+                <img src="Images/rockPostRock.jpg" alt="Discover Photo" class  ="discoverPicture">
+                <p class = "discoverBlockDisposition">Post Rock - Ce rock incorpore des rythmes, des harmonies, et des mélodies 
+                qui ne se trouvent pas dans la tradition du rock. La majorité des groupes crée de la musique 
+                purement instrumentale. <a href="https://www.youtube.com/watch?v=mZTb8WxEW78" target="_blank">Go further ...</a></p>	
+            </div>
+        </section>
 
 
     <script src="rock.js"></script>

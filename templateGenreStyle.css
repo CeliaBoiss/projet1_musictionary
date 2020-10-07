@@ -50,7 +50,10 @@ ul li{
 .discoverPicture{
     margin: 10px;
     padding: 5px;
-
+    width : 75px;
+    height : 75px;
+    border-radius : 2%;
+    object-fit : scale-down;
 }
 
 ul {

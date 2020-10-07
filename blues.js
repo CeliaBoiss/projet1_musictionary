@@ -13,7 +13,7 @@ const moreInfo= document.querySelector('#moreInfo');
 function showFirstVideo()
 {
     displayedVideo.src = urlFirst;
-    firstVideo.style.backgroundColor = "rgba(0 , 0 , 255 , 0.12)";
+    firstVideo.style.backgroundColor = "rgba(102 , 255 , 0 , 0.12)";
     secondVideo.style.backgroundColor = "inherit";
     thirdVideo.style.backgroundColor = "inherit";
 }
@@ -22,7 +22,7 @@ function showSecondVideo()
 {
     displayedVideo.src = urlSecond;
     firstVideo.style.backgroundColor = "inherit";
-    secondVideo.style.backgroundColor = "rgba(0 , 0 , 255 , 0.12)";
+    secondVideo.style.backgroundColor = "rgba(102 , 255 , 0 , 0.12)";
     thirdVideo.style.backgroundColor = "inherit";
 }
 
@@ -31,7 +31,7 @@ function showThirdVideo()
     displayedVideo.src = urlThird;
     firstVideo.style.backgroundColor = "inherit";
     secondVideo.style.backgroundColor = "inherit";
-    thirdVideo.style.backgroundColor = "rgba(0 , 0 , 255 , 0.12)";
+    thirdVideo.style.backgroundColor = "rgba(102 , 255 , 0 , 0.12)";
 }
 
 function showMoreInfo()

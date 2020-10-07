@@ -30,7 +30,7 @@
 }
 
 #themeColor1 {
-    background-color: #676FE8;
+    background-color: #494a4e;
 }
 
 #themeColor2 {
@@ -108,7 +108,6 @@
     }
 
     #desktopBorder {
-        border: 1px solid whitesmoke;
         font-size: 2rem;
         border-radius: 10px;
     }

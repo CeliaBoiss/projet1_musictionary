@@ -15,10 +15,10 @@
                 <li class="navLink"><a class="link" href="rap.php">Rap</a></li>
                 <li class="themeTitle" id="theme2">Children of the Blues</li>
                 <li class="navLink"><a class="link" href="rock.php">Rock</a></li>
-                <li class="navLink"><a class="link" href="Country.php">Country</a></li>
+                <li class="navLink"><a class="link" href="country.php">Country</a></li>
                 <li class="navLink"><a class="link" href="ska.php">Ska</a></li>
                 <li class="themeTitle" id="theme3">"Pop" Music</li>
-                <li class="navLink"><a class="link" href="rnb.php">RnB</a></li>
+                <li class="navLink"><a class="link" href="RNB.php">RnB</a></li>
                 <li class="navLink"><a class="link" href="electro.php">Electro</a></li>
                 <li class="navLink"><a class="link" href="disco.php">Disco</a></li>
             </ul>

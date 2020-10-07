@@ -31,12 +31,12 @@
       z-index: 1;
       top: 0;
       left: 0;
-      background-color: #5CDB95;
+      background-color: #fff667;
       overflow-x: hidden;
       transition: 0.5s;
 }
 
-.navLink {
+.navLink .themeTitle {
   font-size: 2rem;
 }
 
@@ -46,7 +46,10 @@
   text-decoration: none;
   font-size: large;
   background-color: whitesmoke;
-  padding: 35px;
+  padding-left: 65px;
+  padding-right:65px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .nav {
@@ -57,6 +60,22 @@
   position: relative;
   padding: 0;
   height: 70%;
+}
+
+.themeTitle {
+  color: black;
+}
+
+#theme1 {
+  background-color: rgba(102, 255, 0, 0.644);
+}
+
+#theme2 {
+  background-color: rgba(0, 153, 255);
+}
+
+#theme3 {
+  background-color: rgba(255, 155, 0);
 }
 
 @media screen and (min-width: 812px) {

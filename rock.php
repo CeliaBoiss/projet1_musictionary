@@ -6,7 +6,7 @@
     <link rel = "stylesheet" href = "mainStyle.css">
     <link rel="stylesheet" href="menuBurger.css">
     <link rel="stylesheet" type="text/css" href="templateGenreStyle.css"/>
-    <link rel="stylesheet" href="rock.css">
+    <link rel="stylesheet" href="rockStyle.css">
     <title>MusicTionary</title>
 </head>
 <body>
@@ -38,9 +38,9 @@
         <section title = "Few exemples">
             <h3>Few Exemples</h3>
             <ul>
-                <li><button class = "chooseVideo" id = "firstVideoToDisplay"><p class = "artistName">Chuck Berry</p><p class = "songTitle">Johnny B. Goode</p></button></li>
-                <li><button class = "chooseVideo" id = "secondVideoToDisplay"><p class = "artistName">Greta Van Fleet</p><p class = "songTitle">Highway Tune</p></button></li>
-                <li><button class = "chooseVideo" id = "thirdVideoToDisplay"><p class = "artistName">The Rolling Stones</p><p class = "songTitle">Paint it, Black</p></button></li>
+                <li><button class = "chooseVideo" id = "firstVideoToDisplay">Chuck Berry<br />-<br />Johnny B. Goode</button></li>
+                <li><button class = "chooseVideo" id = "secondVideoToDisplay">Greta Van Fleet<br />-<br />Highway Tune</button></li>
+                <li><button class = "chooseVideo" id = "thirdVideoToDisplay">The Rolling Stones<br />-<br />Paint it, Black</button></li>
             </ul>
             <div id = "video">
                 <iframe width="350" height="200" id = "displayedVideo" src="https://www.youtube.com/embed/T38v3-SSGcM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -57,7 +57,7 @@
                 <a href="https://www.youtube.com/watch?v=W3q8Od5qJio" target="_blank">Go further ...</a></p>
             </div>
         </section>
-
+        <hr class="blockSeparator" />
         <section title ="discoverSecondBlock">
             <div class= "discoverSecondBlock">
                 <p class = "discoverBlockDisposition">Punk - La musique, plus violente que celle du rock des années 1960, 
@@ -66,7 +66,7 @@
                 <img src="Images/rockPunk.jpg" alt="Discover Photo" class = "discoverPicture">
             </div>
         </section>
-
+        <hr class="blockSeparator" />
         <section title ="discoverThirdBlock">
             <div class="discoverThirdBlock">
                 <img src="Images/rockPostRock.jpg" alt="Discover Photo" class  ="discoverPicture">

@@ -13,25 +13,25 @@ const moreInfo= document.querySelector('#moreInfo');
 function showFirstVideo()
 {
     displayedVideo.src = urlFirst;
-    firstVideo.style.fontWeight = "bold";
-    secondVideo.style.fontWeight = "normal";
-    thirdVideo.style.fontWeight = "normal";
+    firstVideo.style.backgroundColor = "rgba(0,153,255,0.12)";
+    secondVideo.style.backgroundColor = "inherit";
+    thirdVideo.style.backgroundColor = "inherit";
 }
 
 function showSecondVideo()
 {
     displayedVideo.src = urlSecond;
-    firstVideo.style.fontWeight = "normal";
-    secondVideo.style.fontWeight = "bold";
-    thirdVideo.style.fontWeight = "normal";
+    firstVideo.style.backgroundColor = "inherit";
+    secondVideo.style.backgroundColor = "rgba(0,153,255,0.12)";
+    thirdVideo.style.backgroundColor = "inherit";
 }
 
 function showThirdVideo()
 {
     displayedVideo.src = urlThird;
-    firstVideo.style.fontWeight = "normal";
-    secondVideo.style.fontWeight = "normal";
-    thirdVideo.style.fontWeight = "bold";
+    firstVideo.style.backgroundColor = "inherit";
+    secondVideo.style.backgroundColor = "inherit";
+    thirdVideo.style.backgroundColor = "rgba(0,153,255,0.12)";
 }
 
 function showMoreInfo()

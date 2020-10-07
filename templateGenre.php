@@ -23,8 +23,6 @@
                 <div id="moreInfo">
                     <span id="clickInfo">More info ...</span>
                     <p class="hide">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
-                    <p class="hide">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
-                    <p class="hide">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                 </div>
             </div>
         </section>

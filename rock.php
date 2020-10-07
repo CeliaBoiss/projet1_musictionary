@@ -36,9 +36,9 @@
         <section title = "Few exemples">
             <h3>Few Exemples</h3>
             <ul>
-                <li><button class = "chooseVideo" id = "firstVideoToDisplay">Chuck Berry<br />-<br />Johnny B. Goode</button></li>
-                <li><button class = "chooseVideo" id = "secondVideoToDisplay">Greta Van Fleet<br />-<br />Highway Tune</button></li>
-                <li><button class = "chooseVideo" id = "thirdVideoToDisplay">The Rolling Stones<br />-<br />Paint it, Black</button></li>
+                <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Chuck Berry<br />-<br />Johnny B. Goode</button></li>
+                <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Greta Van Fleet<br />-<br />Highway Tune</button></li>
+                <li class = "genreList"><button class = "chooseVideo" id = "thirdVideoToDisplay">The Rolling Stones<br />-<br />Paint it, Black</button></li>
             </ul>
             <div id = "video">
                 <iframe width="350" height="200" id = "displayedVideo" src="https://www.youtube.com/embed/T38v3-SSGcM" allow="autoplay; encrypted-media" allowfullscreen></iframe>

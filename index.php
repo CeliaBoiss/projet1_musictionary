@@ -6,8 +6,6 @@
         <link rel = "stylesheet" href = "mainStyle.css">
         <link rel="stylesheet" href="indexStyle.css">
         <link rel="stylesheet" href="menuBurger.css">
-        <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
         <title>MusicTionary</title>
     </head>
     <body>

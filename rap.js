@@ -4,34 +4,34 @@ let firstVideo =  document.querySelector("#firstVideoToDisplay");
 let secondVideo =  document.querySelector("#secondVideoToDisplay");
 let thirdVideo =  document.querySelector("#thirdVideoToDisplay");
 
-let urlFirst = "https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG";
-let urlSecond = "https://www.youtube.com/embed/6yCIDkFI7ew";
-let urlThird = "https://www.youtube.com/embed/N0zOkMBk7ik";
+let urlFirst = "https://www.youtube.com/embed/rKTUAESacQM";
+let urlSecond = "https://www.youtube.com/embed/YVkUvmDQ3HY";
+let urlThird = "https://www.youtube.com/embed/cjIvu7e6Wq8";
 
 const moreInfo= document.querySelector('#moreInfo');
 
 function showFirstVideo()
 {
     displayedVideo.src = urlFirst;
-    firstVideo.style.fontWeight = "bold";
-    secondVideo.style.fontWeight = "normal";
-    thirdVideo.style.fontWeight = "normal";
+    firstVideo.style.backgroundColor = "rgba(102 , 255 , 0 , 0.12)";
+    secondVideo.style.backgroundColor = "inherit";
+    thirdVideo.style.backgroundColor = "inherit";
 }
 
 function showSecondVideo()
 {
     displayedVideo.src = urlSecond;
-    firstVideo.style.fontWeight = "normal";
-    secondVideo.style.fontWeight = "bold";
-    thirdVideo.style.fontWeight = "normal";
+    firstVideo.style.backgroundColor = "inherit";
+    secondVideo.style.backgroundColor = "rgba(102 , 255 , 0 , 0.12)";
+    thirdVideo.style.backgroundColor = "inherit";
 }
 
 function showThirdVideo()
 {
     displayedVideo.src = urlThird;
-    firstVideo.style.fontWeight = "normal";
-    secondVideo.style.fontWeight = "normal";
-    thirdVideo.style.fontWeight = "bold";
+    firstVideo.style.backgroundColor = "inherit";
+    secondVideo.style.backgroundColor = "inherit";
+    thirdVideo.style.backgroundColor = "rgba(102 , 255 , 0 , 0.12)";
 }
 
 function showMoreInfo()

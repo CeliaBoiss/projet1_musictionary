@@ -12,15 +12,15 @@
         <?php include "header.php"?>
         <main>
             <section title="articles" id="containerArticles">
-                <p id="desktopBorder">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
+                <p id="desktopBorder">Welcome to MusicTionary, your online music genre dictionary! <br><br>"A music genre is a conventional category that identifies some pieces of music as belonging to a shared tradition or set of conventions."</p>
                 <div class="articleBorder" id="themeColor1">
                     <div id="mobile1">
-                        <h2 class="mobileTitle">Thème</h2>
+                        <h2 class="mobileTitle">Black American Music</h2>
                         <p id="hide1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                     </div>
                     <article class="articleBlock">
                         <div class="descriptive">
-                            <h2 class ="desktopTitle">Thème</h2>
+                            <h2 class ="desktopTitle">Black American Music</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                         </div>
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
@@ -31,12 +31,12 @@
 
                 <div class="articleBorder"  id ="themeColor2">
                     <div id="mobile2">
-                        <h2 class="mobileTitle">Thème</h2>
+                        <h2 class="mobileTitle">Children of the Blues</h2>
                         <p id="hide2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                     </div>
                     <article class="articleBlock">
                         <div class="descriptive">
-                            <h2 class ="desktopTitle">Thème</h2>
+                            <h2 class ="desktopTitle">Children of the Blues</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                         </div>
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
@@ -47,12 +47,12 @@
 
                 <div class="articleBorder"  id ="themeColor3">
                     <div id="mobile3">
-                        <h2 class="mobileTitle">Thème</h2>
+                        <h2 class="mobileTitle">"Pop" Music</h2>
                         <p id="hide3">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                     </div>
                     <article class="articleBlock">
                         <div class="descriptive">
-                            <h2 class ="desktopTitle">Thème</h2>
+                            <h2 class ="desktopTitle">"Pop" Music</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim.</p>
                         </div>
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">

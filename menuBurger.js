@@ -1,9 +1,5 @@
 function openNav() {
-    if (window.matchMedia("(min-width: 812px)").matches) {
-        document.getElementById("mySideNav").style.width = "200px";
-    } else {
-        document.getElementById("mySideNav").style.width = "100px";
-    }
+    document.getElementById("mySideNav").style.width = "100px";
 }
 
 function closeNav() {

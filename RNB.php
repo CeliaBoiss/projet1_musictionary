@@ -49,7 +49,7 @@
         <section title = "discoverFirstBlock">
 
                 <div class="discoverFirstBlock">
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
+                    <img src="Images/soul.jpg" alt="Discover Photo" class = "discoverPicture">
                     <p class = "discoverBlockDisposition">Soul music is a popular African-American music that emerged in the late 1950s in the United States. 
                         It is considered by some to be a return of rhythm and blues to its roots: gospel (church music). 
                         <a href="https://www.youtube.com/watch?v=6FOUqQt3Kg0" target="_blank">Go further ...</a></p>
@@ -65,7 +65,7 @@
                     <p class = "discoverBlockDisposition"> Funk that emerged in the mid-1960s in the United States, and that developed in the 1960s and 1970s, 
                         is characterized by the presence of rhythmic section (guitar, bass, drums), brass or saxophones on rhythmic punctuation (riffs) or solos. 
                         <a href="https://www.youtube.com/watch?v=uY4cVhXxW64" target="_blank">Go further ...</a></p>
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
+                    <img src="Images/funk.png" alt="Discover Photo" class = "discoverPicture">
                 </div>
                    
             </section>
@@ -74,7 +74,7 @@
 
             <section title ="discoverThirdBlock">
                 <div class="discoverThirdBlock">
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class  ="discoverPicture">
+                    <img src="Images/hiphop.jpg" alt="Discover Photo" class  ="discoverPicture">
                     <p class = "discoverBlockDisposition">Hip-hop is a cultural movement that first appeared in New York in the early 1970s. 
                      Deeply urban, hip-hop brings together graffiti, break-dancing, DJing, beat-boxing and rap.   
                      The subject of songs is often politics or society.

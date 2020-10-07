@@ -72,7 +72,7 @@
 
             <section title ="discoverThirdBlock">
                 <div class="discoverThirdBlock">
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class  ="discoverPicture">
+                    <img src="Images/jazzBebop.jpg" alt="Discover Photo" class  ="discoverPicture">
                     <p class = "discoverBlockDisposition">Bebop - This style, which leaves room for interpretation, 
                         is characterized by an often very fast tempo, dynamic phrasing and by the fact that it is not necessarily linked to the dance.
                         

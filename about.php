@@ -18,30 +18,30 @@
 
         <article class = "member">
             <p class = "description right">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, adipisci at nulla.
+                Célia,<br>Patron Saint of Fully Functional Functionalities
             </p>
-            <img class = "profileImage left" src="https://via.placeholder.com/90" alt="">
+            <img class = "profileImage left" src="Images/celia.jpg" alt="célia">
         </article>
 
         <article class = "member">
             <p class = "description left">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, adipisci at nulla.
+                Achille,<br>His Holiness our Supreme Design Guru
             </p>
-            <img class = "profileImage right" src="https://via.placeholder.com/90" alt="">
+            <img class = "profileImage right" src="Images/achille.jpg" alt="achille">
         </article>
 
         <article class = "member">
             <p class = "description right">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, adipisci at nulla.
+                Yann,<br>Certified Genre Classification Expert 
             </p>
-            <img class = "profileImage left" src="https://via.placeholder.com/90" alt="">
+            <img class = "profileImage left" src="Images/yann.jpg" alt="yann">
         </article>
 
         <article class = "member">
             <p class = "description left">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, adipisci at nulla.
+                Lucy,<br>Professional Tea Drinker
             </p>
-            <img class = "profileImage right" src="https://via.placeholder.com/90" alt="">
+            <img class = "profileImage right" src="Images/lucy.jpg" alt="lucy">
         </article>
     </main>
 

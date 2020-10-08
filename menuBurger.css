@@ -91,11 +91,11 @@ a.green {
   background-color: rgba(102, 255, 0, 0.3);
 }
 
-.blue {
+a.blue {
   background-color: rgba(0, 153, 255, 0.3);
 }
 
-.orange {
+a.orange {
   background-color: rgba(255, 155, 0, 0.3);
 }
 
@@ -121,9 +121,8 @@ a.green {
 
   .nav {
     display: grid;
-    grid-template-columns: repeat(9, 65px);
-    grid-template-rows: 40px 40px;
-    padding-right: 5px;
+    grid-template-columns: repeat(9, 70px);
+    grid-template-rows: auto;
   }
 
   #theme1 {
@@ -191,7 +190,7 @@ a.green {
     text-decoration: none;
     font-size: large;
     background-color: #141414;
-    padding: 0px;
+    padding: 0 10px 5px 10px;
   }
 
   .link:hover {

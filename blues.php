@@ -27,8 +27,8 @@
             </div>
         </section>
 
-        <section title = "Few exemples">
-            <h3>Few Exemples</h3>
+        <section title = "A few examples">
+            <h3>A few Examples</h3>
             <ul>
                 <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Robert Johnson<br>-<br>Stones in my Passway</button></li>
                 <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Buddy Guy<br>-<br>Damn Right, I've got the Blues</button></li>

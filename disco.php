@@ -46,15 +46,15 @@
         <h2>Discover More</h2>
 
         <hr class="blockSeparator"/> 
-        
+
         <section title = "discoverFirstBlock">
 
                 <div class="discoverFirstBlock">
                     <img src="Images/bluesGospel.jpg" alt="Discover Photo" class = "discoverPicture">
                     <p class = "discoverBlockDisposition"><span class="subGenreTitle">GOSPEL : </span><br><br>Gospel groups were very popular within the black community, 
                         but were virtually unknown to the white community, though some in the white community began to follow them. 
-                        <a href="https://www.youtube.com/watch?v=xdzoeCuVs7w" class="hideGoFurther" target="_blank">Go further ...</a></p>
-                        <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/xdzoeCuVs7w" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                    <a href="https://www.youtube.com/watch?v=xdzoeCuVs7w" class="hideGoFurther" target="_blank">Go further ...</a></p>
+                    <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/xdzoeCuVs7w" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
                 </div>
                     
 
@@ -65,9 +65,9 @@
         <section title ="discoverSecondBlock">
             <div class= "discoverSecondBlock">
                 <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/uY4cVhXxW64" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
-                    <p class = "discoverBlockDisposition"><span class="subGenreTitle">FUNK : </span><br><br>Emerged in the mid-1960s in the United States, and that developed in the 1960s and 1970s, 
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">FUNK : </span><br><br>Emerged in the mid-1960s in the United States, and that developed in the 1960s and 1970s, 
                     is characterized by the presence of rhythmic section (guitar, bass, drums), brass or saxophones on rhythmic punctuation (riffs) or solos. 
-                    <a href="https://www.youtube.com/watch?v=uY4cVhXxW64" class="hideGoFurther" target="_blank">Go further ...</a></p>
+                <a href="https://www.youtube.com/watch?v=uY4cVhXxW64" class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <img src="Images/funk.png" alt="Discover Photo" class = "discoverPicture">
                 
             </div>

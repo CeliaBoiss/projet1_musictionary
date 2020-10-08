@@ -47,7 +47,7 @@
         <section title = "discoverFirstBlock">
 
                 <div class="discoverFirstBlock">
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
+                    <img src="Images/bluesGospel.jpg" alt="Discover Photo" class = "discoverPicture">
                     <p class = "discoverBlockDisposition">Gospel - Gospel groups were very popular within the black community, 
                         but were virtually unknown to the white community, though some in the white community began to follow them. 
                         <a href="https://www.youtube.com/watch?v=xdzoeCuVs7w" target="_blank">Go further ...</a></p>
@@ -76,7 +76,7 @@
                     <p class = "discoverBlockDisposition">Bebop - This style, which leaves room for interpretation, 
                         is characterized by an often very fast tempo, dynamic phrasing and by the fact that it is not necessarily linked to the dance.
                         
-                     <a href="https://www.youtube.com/embed/okZYCS_TCO8" " target="_blank">Go further ...</a></p>
+                     <a href="https://www.youtube.com/watch?v=okZYCS_TCO8&feature=emb_logo" target="_blank">Go further ...</a></p>
                 </div>
                 
             </section>

@@ -46,13 +46,13 @@
         <section title = "discoverFirstBlock">
                 <div class="discoverFirstBlock">
                     <img src="Images/reggae.jpg" alt="Discover Photo" class = "discoverPicture">
-                    <p class = "discoverBlockDisposition">Reggae is a music genre that originated in Jamaica in the late 1960s. The term also denotes the modern popular music of Jamaica and its diaspora.<a href="https://www.youtube.com/watch?v=NUn3lj64oNw">Go further ...</a></p>
+                    <p class = "discoverBlockDisposition">Reggae is a music genre that originated in Jamaica in the late 1960s. The term also denotes the modern popular music of Jamaica and its diaspora.<a href="https://www.youtube.com/watch?v=NUn3lj64oNw" target="_blank">Go further ...</a></p>
                 </div>
             </section>
 
             <section title ="discoverSecondBlock">
                 <div class= "discoverSecondBlock">
-                    <p class = "discoverBlockDisposition">Ska punk (also spelled ska-punk) is a fusion genre that mixes ska music and punk rock music together.<a href="https://www.youtube.com/watch?v=DhKHAopx7D0&list=PLcWtvLiGLVM2VdNhNmmL54u-JqKUuk3ba&index=7">Go further ...</a></p>
+                    <p class = "discoverBlockDisposition">Ska punk (also spelled ska-punk) is a fusion genre that mixes ska music and punk rock music together.<a href="https://www.youtube.com/watch?v=DhKHAopx7D0&list=PLcWtvLiGLVM2VdNhNmmL54u-JqKUuk3ba&index=7" target="_blank">Go further ...</a></p>
                     <img src="Images/skapunk.jpg" alt="Discover Photo" class = "discoverPicture">
                 </div>
             </section>
@@ -60,7 +60,7 @@
             <section title ="discoverThirdBlock">
                 <div class="discoverThirdBlock">
                     <img src="Images/dub.jpeg" alt="Discover Photo" class  ="discoverPicture">
-                    <p class = "discoverBlockDisposition">Dub is a genre of electronic music that grew out of reggae in the late 1960s and early 1970s, and is commonly considered a subgenre, though it has developed to extend beyond the scope of reggae.<a href="https://www.youtube.com/watch?v=QTP5I4x1Yr0">Go further ...</a></p>	
+                    <p class = "discoverBlockDisposition">Dub is a genre of electronic music that grew out of reggae in the late 1960s and early 1970s, and is commonly considered a subgenre, though it has developed to extend beyond the scope of reggae.<a href="https://www.youtube.com/watch?v=QTP5I4x1Yr0" target="_blank">Go further ...</a></p>	
                 </div>
             </section>
 

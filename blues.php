@@ -26,42 +26,48 @@
                 </div>
             </div>
         </section>
-
-        <section title = "A few examples">
-            <h3>A few Examples</h3>
-            <ul>
-                <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Robert Johnson<br>-<br>Stones in my Passway</button></li>
-                <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Buddy Guy<br>-<br>Damn Right, I've got the Blues</button></li>
-                <li class = "genreList"><button class = "chooseVideo" id = "thirdVideoToDisplay">Bessie Smith<br>-<br>St. Louis Blues</button></li>
-            </ul>
+        <section title = "Few examples">
+        <h3 class="fewExample">A few Examples</h3>
+        <hr class="blockSeparator"/> 
+            <div class="containExamples">
+                <ul>
+                    <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Robert Johnson<br>-<br>Stones in my Passway</button></li>
+                    <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Buddy Guy<br>-<br>Damn Right, I've got the Blues</button></li>
+                    <li class = "genreList"><button class = "chooseVideo" id = "thirdVideoToDisplay">Bessie Smith<br>-<br>St. Louis Blues</button></li>
+                </ul>
+            </div>
             <div id = "video">
                 <iframe width="350" height="200" id = "displayedVideo" src="https://www.youtube.com/embed/r4NK7bLnc6I" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </section>
-
-
         <h2>Discover More</h2>
-
+        <hr class="blockSeparator"/> 
         <section title = "discoverFirstBlock">
-                <div class="discoverFirstBlock">
-                    <img src="Images/bluesDelta.jpg" alt="Discover Photo" class = "discoverPicture">
-                    <p class = "discoverBlockDisposition">Delta blues - One of the earliest-known styles of blues. It originated in the Mississippi Delta. Guitar and harmonica are its dominant instruments; slide guitar is a hallmark of the style. <a href="https://www.youtube.com/watch?v=NdgrQoZHnNY" target="_blank">Go further ...</a></p>
-                </div>
-            </section>
-
-            <section title ="discoverSecondBlock">
-                <div class= "discoverSecondBlock">
-                    <p class = "discoverBlockDisposition">Chicago blues - A form of blues music developed in Chicago, Illinois. It is based on earlier blues idioms, such as Delta blues, but performed in an urban style. <a href="https://www.youtube.com/watch?v=bSfqNEvykv0" target="_blank">Go further ...</a></p>
-                    <img src="Images/bluesChicago.jpg" alt="Discover Photo" class = "discoverPicture">
-                </div>
-            </section>
-
-            <section title ="discoverThirdBlock">
-                <div class="discoverThirdBlock">
-                    <img src="Images/bluesGospel.jpg" alt="Discover Photo" class  ="discoverPicture">
-                    <p class = "discoverBlockDisposition">Gospel - Gospel groups were very popular within the black community, but were virtually unknown to the white community, though some in the white community began to follow them. <a href="https://www.youtube.com/watch?v=xdzoeCuVs7w" target="_blank">Go further ...</a></p>
-                </div>
-            </section>
+            <div class="discoverFirstBlock">
+                <img src="Images/bluesDelta.jpg" alt="Discover Photo" class = "discoverPicture">
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">DELTA BLUES : </span><br><br> One of the earliest-known styles of blues. It originated in the Mississippi Delta. Guitar and harmonica are its dominant instruments; slide guitar is a hallmark of the style. 
+                <a href="https://www.youtube.com/watch?v=NdgrQoZHnNY" class="hideGoFurther" target="_blank">Go further ...</a></p>
+                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/NdgrQoZHnNY"frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+            </div>
+        </section>
+        <hr class="blockSeparator"/> 
+        <section title ="discoverSecondBlock">
+            <div class= "discoverSecondBlock">
+                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/bSfqNEvykv0" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">CHICAGO BLUES : </span><br><br> A form of blues music developed in Chicago, Illinois. It is based on earlier blues idioms, such as Delta blues, but performed in an urban style. 
+                <a href="https://www.youtube.com/watch?v=bSfqNEvykv0" class="hideGoFurther" target="_blank">Go further ...</a></p>
+                <img src="Images/bluesChicago.jpg" alt="Discover Photo" class = "discoverPicture">
+            </div>
+        </section>
+        <hr class="blockSeparator"/> 
+        <section title ="discoverThirdBlock">
+            <div class="discoverThirdBlock">
+                <img src="Images/bluesGospel.jpg" alt="Discover Photo" class  ="discoverPicture">
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">GOSPEL : </span><br><br> Gospel groups were very popular within the black community, but were virtually unknown to the white community, though some in the white community began to follow them. 
+                <a href="https://www.youtube.com/watch?v=xdzoeCuVs7w" class="hideGoFurther" target="_blank">Go further ...</a></p>
+                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/xdzoeCuVs7w"frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+            </div>
+        </section>
 
 
     <script src="blues.js"></script>

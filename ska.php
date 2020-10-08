@@ -29,7 +29,7 @@
         </section>
 
         <section title = "Few exemples">
-            <h3>Few Exemples</h3>
+            <h3>A few Examples</h3>
             <ul>
                 <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Stranger Cole<br>-<br>Everyday Tomorrow</button></li>
                 <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Prince Buster<br>-<br>Enjoy Yourself</button></li>

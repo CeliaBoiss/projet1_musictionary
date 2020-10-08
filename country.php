@@ -35,7 +35,7 @@
         </section>
 
         <section title = "Few exemples">
-            <h3>Few Exemples</h3>
+            <h3>A few Examples</h3>
             <ul>
                 <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Dolly Parton<br />-<br />Jolene</button></li>
                 <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Emmylou Harris<br />-<br />C'est la vie</button></li>

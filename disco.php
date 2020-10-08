@@ -32,7 +32,7 @@
         </section>
 
         <section title = "Few exemples">
-            <h3>Few Exemples</h3>
+            <h3>A few Examples</h3>
             <ul>
                 <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Abba<br>-<br>Dancing Queen</button></li>
                 <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Bee Gees<br>-<br>Stayin'Alive</button></li>

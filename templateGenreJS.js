@@ -42,6 +42,7 @@ function showMoreInfo()
         myHiddenParagraph.style.display = "none";
     } else {
         myHiddenParagraph.style.display = "block";
+
     }
 }
 

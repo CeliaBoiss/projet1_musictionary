@@ -17,8 +17,7 @@
         <section title = "Genre">
             <p><img src="Images/countryMain.jpg" alt="Main Title Genre" class="mainTitleGenre"></p>
             <div class  = "mainTextePresentation">
-                <p>Country (also called country and western) is a genre of popular music that takes its roots from genres 
-                such as blues and old-time music, and various types of American folk music including Appalachian, Cajun, 
+                <p>Country (also called country and western) is a genre of popular music that takes its roots from genres such as blues and old-time music, and various types of American folk music including Appalachian, Cajun, 
                 and the cowboy Western music styles of Red Dirt, New Mexico, Texas country, and Tejano. </p>
                 <p>Its popularized roots originate in the Southern United States of the early 1920s.</p>
                 <p>The term country music is used today to describe many styles and subgenres. The origins of country 
@@ -33,14 +32,16 @@
                 </div>
             </div>
         </section>
-
         <section title = "Few examples">
-            <h3 class="fewExample">A few Examples</h3>
-            <ul>
-                <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Dolly Parton<br />-<br />Jolene</button></li>
-                <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Emmylou Harris<br />-<br />C'est la vie</button></li>
-                <li class = "genreList"><button class = "chooseVideo" id = "thirdVideoToDisplay">Willie Nelson<br />-<br />On The Road Again</button></li>
-            </ul>
+        <h3 class="fewExample">A few Examples</h3>
+        <hr class="blockSeparator"/> 
+            <div class="containExamples">
+                <ul>
+                    <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Dolly Parton<br />-<br />Jolene</button></li>
+                    <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Emmylou Harris<br />-<br />C'est la vie</button></li>
+                    <li class = "genreList"><button class = "chooseVideo" id = "thirdVideoToDisplay">Willie Nelson<br />-<br />On The Road Again</button></li>
+                </ul>
+            </div>
             <div id = "video">
                 <iframe width="350" height="200" id = "displayedVideo" src="https://www.youtube.com/embed/Ixrje2rXLMA" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>

@@ -28,55 +28,48 @@
         </section>
 
         <section title = "Few examples">
-            <h3 class="fewExample">A few Examples</h3>
-            <ul>
-                <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Kraftwerk<br>-<br>Numbers</button></li>
-                <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">YMO<br>-<br>Riot in Lagos</button></li>
-                <li class = "genreList"><button class = "chooseVideo" id = "thirdVideoToDisplay">Model 500<br>-<br>No Ufo's</button></li>
-            </ul>
+        <h3 class="fewExample">A few Examples</h3>
+        <hr class="blockSeparator"/> 
+            <div class="containExamples">
+                <ul>
+                    <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Kraftwerk<br>-<br>Numbers</button></li>
+                    <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">YMO<br>-<br>Riot in Lagos</button></li>
+                    <li class = "genreList"><button class = "chooseVideo" id = "thirdVideoToDisplay">Model 500<br>-<br>No Ufo's</button></li>
+                </ul>
+            </div>
             <div id = "video">
                 <iframe width="350" height="200" id = "displayedVideo" src="https://www.youtube.com/embed/4YPiCeLwh5o" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </section>
-
-
         <h2>Discover More</h2>
-
         <hr class="blockSeparator"/> 
-
         <section title = "discoverFirstBlock">
-                <div class="discoverFirstBlock">
-                    <img src="Images/house.png" alt="Discover Photo" class = "discoverPicture">
-                    <p class = "discoverBlockDisposition"><span class="subGenreTitle">HOUSE MUSIC : </span><br><br>The house is made up of a minimal rhythm, a bass line close to funk, to which are often added voices, sampled or not. 
-                    <a href="https://www.youtube.com/watch?v=OJ0WL4TJVCg"  class="hideGoFurther" target="_blank">Go further ...</a></p>
-                    <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/OJ0WL4TJVCg" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
-                </div>
-            </section>
+            <div class="discoverFirstBlock">
+                <img src="Images/house.png" alt="Discover Photo" class = "discoverPicture">
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">HOUSE MUSIC : </span><br><br>The house is made up of a minimal rhythm, a bass line close to funk, to which are often added voices, sampled or not. 
+                <a href="https://www.youtube.com/watch?v=OJ0WL4TJVCg"  class="hideGoFurther" target="_blank">Go further ...</a></p>
+                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/OJ0WL4TJVCg" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+            </div>
+        </section>
+        <hr class="blockSeparator"/>
+        <section title ="discoverSecondBlock">
+            <div class= "discoverSecondBlock">
+                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/Zk3Inus-yh4"frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
 
-            <hr class="blockSeparator"/>
-
-            <section title ="discoverSecondBlock">
-                <div class= "discoverSecondBlock">
-                    <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/Zk3Inus-yh4"frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
-
-                    <p class = "discoverBlockDisposition"><span class="subGenreTitle">TRANCE : </span><br><br>Trance is characterized by a tempo oscillating between 125 and 160 beats per minute (BPM), repetitive melodic phrases, and a rising and falling musical form. 
-                    <a href="https://www.youtube.com/watch?v=Zk3Inus-yh4"  class="hideGoFurther" target="_blank">Go further ...</a></p>
-                    <img src="Images/trance.jpg" alt="Discover Photo" class = "discoverPicture">
-                </div>
-            </section>
-
-            <hr class="blockSeparator"/> 
-
-            <section title ="discoverThirdBlock">
-                <div class="discoverThirdBlock">
-                    <img src="Images/techno.jpg" alt="Discover Photo" class  ="discoverPicture">
-                    <p class = "discoverBlockDisposition"><span class="subGenreTitle">TECHNO : </span><br><br> Techno is a genre of electronic music that emerged in the United States in the mid-1980s. 
-                    <a href="https://www.youtube.com/watch?v=SbZDaD00UXk"  class="hideGoFurther" target="_blank">Go further ...</a></p>	
-                    <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/SbZDaD00UXk" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
-
-                </div>
-            </section>
-
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">TRANCE : </span><br><br>Trance is characterized by a tempo oscillating between 125 and 160 beats per minute (BPM), repetitive melodic phrases, and a rising and falling musical form. 
+                <a href="https://www.youtube.com/watch?v=Zk3Inus-yh4"  class="hideGoFurther" target="_blank">Go further ...</a></p>
+                <img src="Images/trance.jpg" alt="Discover Photo" class = "discoverPicture">
+            </div>
+        </section>
+        <hr class="blockSeparator"/> 
+        <section title ="discoverThirdBlock">
+            <div class="discoverThirdBlock">
+                <img src="Images/techno.jpg" alt="Discover Photo" class  ="discoverPicture">
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">TECHNO : </span><br><br> Techno is a genre of electronic music that emerged in the United States in the mid-1980s. 
+                <a href="https://www.youtube.com/watch?v=SbZDaD00UXk"  class="hideGoFurther" target="_blank">Go further ...</a></p>	
+                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/SbZDaD00UXk" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+            </div>
+        </section>
 
     <script src="electro.js"></script>
 

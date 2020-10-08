@@ -15,7 +15,7 @@ h2 {
     grid-row : 1;
     justify-self : start;
     align-self : center;
-    text-align : left;
+    text-align : right;
 }
 
 .right {
@@ -23,7 +23,7 @@ h2 {
     grid-row : 1;
     justify-self : end;
     align-self : center;
-    text-align : right;
+    text-align : left;
 }
 
 .descritpion {

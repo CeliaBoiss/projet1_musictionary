@@ -30,7 +30,7 @@
 
         <section title = "Few examples">
             <h3 class="fewExample">A few Examples</h3>
-            <ul>>
+            <ul>
                 <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Stranger Cole<br>-<br>Everyday Tomorrow</button></li>
                 <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Prince Buster<br>-<br>Enjoy Yourself</button></li>
                 <li class = "genreList"><button class = "chooseVideo" id = "thirdVideoToDisplay">The skatalites<br>-<br>When I fall in love.wmv</button></li>

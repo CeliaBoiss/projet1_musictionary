@@ -4,7 +4,7 @@ let firstVideo =  document.querySelector("#firstVideoToDisplay");
 let secondVideo =  document.querySelector("#secondVideoToDisplay");
 let thirdVideo =  document.querySelector("#thirdVideoToDisplay");
 
-let urlFirst = "https://www.youtube.com/embed/sQgd6MccwZc";
+let urlFirst = "https://www.youtube.com/embed/xFrGuyw1V8s";
 let urlSecond = "https://www.youtube.com/embed/I_izvAbhExY";
 let urlThird = "https://www.youtube.com/embed/CS9OO0S5w2k";
 

@@ -27,24 +27,22 @@
                 </div>
             </div>
         </section>
-
         <section title = "Few examples">
-            <h3 class="fewExample">A few Examples</h3>
-            <ul>
-                <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Stranger Cole<br>-<br>Everyday Tomorrow</button></li>
-                <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Prince Buster<br>-<br>Enjoy Yourself</button></li>
-                <li class = "genreList"><button class = "chooseVideo" id = "thirdVideoToDisplay">The skatalites<br>-<br>When I fall in love.wmv</button></li>
-            </ul>
+        <h3 class="fewExample">A few Examples</h3>
+        <hr class="blockSeparator"/> 
+            <div class="containExamples">
+                <ul>
+                    <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Stranger Cole<br>-<br>Everyday Tomorrow</button></li>
+                    <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Prince Buster<br>-<br>Enjoy Yourself</button></li>
+                    <li class = "genreList"><button class = "chooseVideo" id = "thirdVideoToDisplay">The skatalites<br>-<br>When I fall in love.wmv</button></li>
+                </ul>
+            </div>
             <div id = "video">
                 <iframe width="350" height="200" id = "displayedVideo" src="https://www.youtube.com/embed/6tFXl8KBeFM" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </section>
-
-
         <h2>Discover More</h2>
-
         <hr class="blockSeparator"/> 
-
         <section title = "discoverFirstBlock">
                 <div class="discoverFirstBlock">
                     <img src="Images/reggae.jpg" alt="Discover Photo" class = "discoverPicture">
@@ -52,32 +50,27 @@
                     <a href="https://www.youtube.com/watch?v=NUn3lj64oNw" class="hideGoFurther" target="_blank">Go further ...</a></p>
                     <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/NUn3lj64oNw" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
                 </div>
-            </section>
-
-            <hr class="blockSeparator"/>
-
-            <section title ="discoverSecondBlock">
-                <div class= "discoverSecondBlock">
-                    <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/DhKHAopx7D0" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
-                    
-                    
-                    <p class = "discoverBlockDisposition"><span class="subGenreTitle">SKA PUNK : </span><br><br>(also spelled ska-punk) is a fusion genre that mixes ska music and punk rock music together.
-                    <a href="https://www.youtube.com/embed/DhKHAopx7D0"  class="hideGoFurther"  target="_blank">Go further ...</a></p>
-                    <img src="Images/skapunk.jpg" alt="Discover Photo" class = "discoverPicture">
-                </div>
-            </section>
-
-            <hr class="blockSeparator"/>
-
-            <section title ="discoverThirdBlock">
-                <div class="discoverThirdBlock">
-                    <img src="Images/dub.jpeg" alt="Discover Photo" class  ="discoverPicture">
-                    <p class = "discoverBlockDisposition"><span class="subGenreTitle">DUB : </span><br><br> is a genre of electronic music that grew out of reggae in the late 1960s and early 1970s, and is commonly considered a subgenre, though it has developed to extend beyond the scope of reggae.
-                    <a href="https://www.youtube.com/watch?v=QTP5I4x1Yr0" class="hideGoFurther" target="_blank">Go further ...</a></p>
-                    <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/QTP5I4x1Yr0" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
-                 
-                </div>
-            </section>
+        </section>
+        <hr class="blockSeparator"/>
+        <section title ="discoverSecondBlock">
+            <div class= "discoverSecondBlock">
+                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/DhKHAopx7D0" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                
+                
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">SKA PUNK : </span><br><br>(also spelled ska-punk) is a fusion genre that mixes ska music and punk rock music together.
+                <a href="https://www.youtube.com/embed/DhKHAopx7D0"  class="hideGoFurther"  target="_blank">Go further ...</a></p>
+                <img src="Images/skapunk.jpg" alt="Discover Photo" class = "discoverPicture">
+            </div>
+        </section>
+        <hr class="blockSeparator"/>
+        <section title ="discoverThirdBlock">
+            <div class="discoverThirdBlock">
+                <img src="Images/dub.jpeg" alt="Discover Photo" class  ="discoverPicture">
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">DUB : </span><br><br> is a genre of electronic music that grew out of reggae in the late 1960s and early 1970s, and is commonly considered a subgenre, though it has developed to extend beyond the scope of reggae.
+                <a href="https://www.youtube.com/watch?v=QTP5I4x1Yr0" class="hideGoFurther" target="_blank">Go further ...</a></p>
+                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/QTP5I4x1Yr0" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+            </div>
+        </section>
 
     <script src="ska.js"></script>
 

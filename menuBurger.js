@@ -1,5 +1,5 @@
 function openNav() {
-    document.getElementById('mySideNav').style.width = "160px";
+    document.getElementById('mySideNav').style.width = "250px";
     document.querySelector('.nav').style.display = "flex";
 }
 

@@ -124,8 +124,9 @@ a {
     color : white;
 }
 
-p {
+p , span{
     font-family: 'lato';
+    text-align : justify;
 }
 
 @media screen and (min-width : 812px) {

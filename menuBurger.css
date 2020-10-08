@@ -111,18 +111,33 @@ a.orange {
 
   .sideNav {
     height: 30%;
-    width: 50%;
-    position: static;
+    width :100%;
+    min-width: 400px;
+    position: relative;
     background-color: #141414;
     transition: 0s;
-    display: flex;
-    justify-content: flex-end;
   }
 
   .nav {
     display: grid;
     grid-template-columns: repeat(9, 70px);
     grid-template-rows: auto;
+    width : 100%;
+  }
+
+  .navLink .themeTitle {
+    margin : 0;
+    padding : 0;
+  }
+
+  .navLink {
+    display : flex;
+  }
+
+  .themeTitle , .link {
+    font-size : 1rem;
+    text-align : center;
+    justify-self : center;
   }
 
   #theme1 {
@@ -188,9 +203,7 @@ a.orange {
   .link {
     color: whitesmoke;
     text-decoration: none;
-    font-size: large;
     background-color: #141414;
-    padding: 0 10px 5px 10px;
   }
 
   .link:hover {

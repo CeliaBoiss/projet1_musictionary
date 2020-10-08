@@ -16,7 +16,7 @@
     <main>
 
         <section title = "Genre">
-            <p><img src="https://via.placeholder.com/75" alt="Main Title Genre" class="mainTitleGenre"></p>
+            <p><img src="Images/rapMain.jpg" alt="Main Title Genre" class="mainTitleGenre"></p>
             <div class  = "mainTextePresentation">
                 <p>Rapping is a musical form of vocal delivery that incorporates rhyme, rhythmic speech, and street vernacular which is performed or chanted in a variety of ways</p>
                 <p>Rap originates from the ghetto and is strongly regional. Since Rap is more language oriented than other genres as well, its various subgenres are therefore often geographically demarcated.</p>
@@ -44,23 +44,22 @@
 
         <section title = "discoverFirstBlock">
                 <div class="discoverFirstBlock">
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
-                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. <a href="">Go further ...</a></p>
+                    <img src="Images/rapGangsta.png" alt="Discover Photo" class = "discoverPicture">
+                    <p class = "discoverBlockDisposition">Gangsta Rap : A subgenre of hip hop music that emerged on ths US West Coast in the mid to late 1980s as a distinct rap subgenre. <a href="https://www.youtube.com/watch?v=ADdpLv3RDhA" target="_blank">Go further ...</a></p>
                 </div>
             </section>
 
             <section title ="discoverSecondBlock">
                 <div class= "discoverSecondBlock">
-                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. <a href="">Go further ...</a></p>
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
+                    <p class = "discoverBlockDisposition">Political Rap : a subgenre of hip hop music that was developed in the 1980s as a way of turning rap music into a call for political and/or social action and a form of social activism. <a href="https://www.youtube.com/watch?v=Fvbe-DEl7ko" target="_blank">Go further ...</a></p>
+                    <img src="Images/rapConscient.png" alt="Discover Photo" class = "discoverPicture">
                 </div>
             </section>
 
             <section title ="discoverThirdBlock">
                 <div class="discoverThirdBlock">
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class  ="discoverPicture">
-                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. 
-                <a href="">Go further ...</a></p>	
+                    <img src="Images/rapMumble.png" alt="Discover Photo" class  ="discoverPicture">
+                    <p class = "discoverBlockDisposition">Mumble Rap : Caracterized by a mumbling or unclear vocal delivery by artists. While the term has been widely criticized as inaccurate or as a derogatory term, some artists have reclaimed the it. <a href="https://www.youtube.com/watch?v=Q10AqolSgQg" target="_blank">Go further ...</a></p>	
                 </div>
             </section>
 

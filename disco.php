@@ -31,8 +31,8 @@
             </div>
         </section>
 
-        <section title = "Few exemples">
-            <h3>A few Examples</h3>
+        <section title = "Few examples">
+            <h3 class="fewExample">A few Examples</h3>
             <ul>
                 <li class = "genreList"><button class = "chooseVideo" id = "firstVideoToDisplay">Abba<br>-<br>Dancing Queen</button></li>
                 <li class = "genreList"><button class = "chooseVideo" id = "secondVideoToDisplay">Bee Gees<br>-<br>Stayin'Alive</button></li>
@@ -42,44 +42,39 @@
                 <iframe id = "displayedVideo" width="350" height="200" src="https://www.youtube.com/embed/xFrGuyw1V8s" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </section>
-                    
         <h2>Discover More</h2>
+        <hr class="blockSeparator"/> 
         <section title = "discoverFirstBlock">
-
                 <div class="discoverFirstBlock">
                     <img src="Images/bluesGospel.jpg" alt="Discover Photo" class = "discoverPicture">
-                    <p class = "discoverBlockDisposition">Gospel - Gospel groups were very popular within the black community, 
-                        but were virtually unknown to the white community, though some in the white community began to follow them. 
-                        <a href="https://www.youtube.com/watch?v=xdzoeCuVs7w" target="_blank">Go further ...</a></p>
+                    <p class = "discoverBlockDisposition"><span class="subGenreTitle">GOSPEL : </span><br><br>Gospel groups were very popular within the black community, 
+                    but were virtually unknown to the white community, though some in the white community began to follow them. 
+                    <a href="https://www.youtube.com/watch?v=xdzoeCuVs7w" class="hideGoFurther" target="_blank">Go further ...</a></p>
+                    <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/xdzoeCuVs7w" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
                 </div>
+        </section>
+        <hr class="blockSeparator"/>
+        <section title ="discoverSecondBlock">
+            <div class= "discoverSecondBlock">
+                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/uY4cVhXxW64" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">FUNK : </span><br><br>Emerged in the mid-1960s in the United States, and that developed in the 1960s and 1970s, 
+                is characterized by the presence of rhythmic section (guitar, bass, drums), brass or saxophones on rhythmic punctuation (riffs) or solos. 
+                <a href="https://www.youtube.com/watch?v=uY4cVhXxW64" class="hideGoFurther" target="_blank">Go further ...</a></p>
+                <img src="Images/funk.png" alt="Discover Photo" class = "discoverPicture">
+            </div>
+        </section>
+        <hr class="blockSeparator"/>
+        <section title ="discoverThirdBlock">
+            <div class="discoverThirdBlock">
+                <img src="Images/jazzBebop.jpg" alt="Discover Photo" class  ="discoverPicture">
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">BEBOP : </span> <br><br>This style, which leaves room for interpretation, 
+                    is characterized by an often very fast tempo, dynamic phrasing and by the fact that it is not necessarily linked to the dance.
                     
-
-            </section>
-
-            <hr class="blockSeparator"/>
-
-            <section title ="discoverSecondBlock">
-                <div class= "discoverSecondBlock">
-                    <p class = "discoverBlockDisposition"> Funk - Emerged in the mid-1960s in the United States, and that developed in the 1960s and 1970s, 
-                        is characterized by the presence of rhythmic section (guitar, bass, drums), brass or saxophones on rhythmic punctuation (riffs) or solos. 
-                        <a href="https://www.youtube.com/watch?v=uY4cVhXxW64" target="_blank">Go further ...</a></p>
-                    <img src="Images/funk.png" alt="Discover Photo" class = "discoverPicture">
-                </div>
-                   
-            </section>
+                    <a href="https://www.youtube.com/watch?v=okZYCS_TCO8&feature=emb_logo" class="hideGoFurther" target="_blank">Go further ...</a></p>
+                    <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/okZYCS_TCO8" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+            </div>
             
-            <hr class="blockSeparator"/>
-
-            <section title ="discoverThirdBlock">
-                <div class="discoverThirdBlock">
-                    <img src="Images/jazzBebop.jpg" alt="Discover Photo" class  ="discoverPicture">
-                    <p class = "discoverBlockDisposition">Bebop - This style, which leaves room for interpretation, 
-                        is characterized by an often very fast tempo, dynamic phrasing and by the fact that it is not necessarily linked to the dance.
-                        
-                     <a href="https://www.youtube.com/watch?v=okZYCS_TCO8&feature=emb_logo" target="_blank">Go further ...</a></p>
-                </div>
-                
-            </section>
+        </section>
 
     <script src="disco.js"></script>
 

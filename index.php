@@ -21,7 +21,7 @@
                     <article class="articleBlock">
                         <div class="descriptive">
                             <h2 class ="desktopTitle">Black American Music</h2>
-                            <p>LThe Black Amercian community has generated the foundations for basically every major modern musical genre you can think of!</p>
+                            <p>The Black Amercian community has generated the foundations for basically every major modern musical genre you can think of!</p>
                         </div>
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">
                         <img class="articleImg" src="https://via.placeholder.com/90" alt="">

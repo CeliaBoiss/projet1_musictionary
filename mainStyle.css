@@ -58,16 +58,11 @@ header {
     margin : 10px 0 10px 0;
 }
 
-h2 {
+h2 , h3 {
     font-size : 30px;
     font-family: 'Staatliches';
     text-align : center;
     margin : 10px 0 10px 0;
-}
-
-h3 {
-    text-align : center;
-    font-size : 2rem;
 }
 
 #searchSection {
@@ -149,7 +144,7 @@ p {
         color: rgb(116, 116, 116);
     }
 
-    h2 {
+    h2 , h3{
         font-size : 70px;
     }
 

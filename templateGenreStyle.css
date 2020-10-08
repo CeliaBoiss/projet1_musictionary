@@ -70,6 +70,7 @@ ul {
     height : 100%;
     display : flex;
     justify-content : center;
+    margin-bottom : 25px;
 }
 
 .chooseVideo {
@@ -86,4 +87,115 @@ ul {
 #clickInfo {
     text-decoration: underline;
     cursor: pointer;
+
+}
+
+.blockSeparator{
+	width: 30%;
+    height:2px;
+
+}
+
+#hideVideo{
+    display: none;
+}
+
+
+
+
+@media screen and (min-width: 812px) {
+
+    .mainTitleGenre{
+        height: 600px;
+    }
+
+    .video{
+        overflow: hidden; 
+    }
+
+    #displayedVideo { 
+        width: 90%; 
+        height: 500px; 
+    }
+
+    .mainTextePresentation{
+        font-size: 20px;
+    }
+
+    .hide {
+        display : block;
+    }
+
+    #clickInfo{
+        display: none;
+    }
+
+
+    .discoverFirstBlock{
+        display: flex;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .discoverSecondBlock{
+        display: flex;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+
+    .discoverThirdBlock{
+        display: flex;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+
+
+    .discoverBlockDisposition{
+        flex: 1;
+        order: 2;
+        font-size: 20px;
+        margin: 10px; 
+        padding: 20px;
+    }
+
+    .discoverPicture{
+        flex: 1;
+        order: 1;
+        padding: 10px;
+        width : 280px;
+        height : 200px;
+        border-radius : 2%;
+        object-fit : scale-down;
+
+    }
+    
+    #hideVideo{
+        flex: 2;
+        order: 3;
+        display :inline;
+        width : 400px;
+        height : 400px;
+    }
+
+
+
+    .hideGoFurther{
+        display: none;
+    }
+
+
+    .subGenreTitle{
+        font-size: 40px;
+        font-family: 'Staatliches';
+    }
+
+
+    .chooseVideo{
+        font-size: 20px;
+    }
+       
+    .fewExample{
+        margin-bottom: 15px;
+    }
+
+
 }

@@ -3,11 +3,11 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    margin: 5%;
+    margin: 5%;   
 }
 
 #desktopBorder {
-    text-align : center;
+    text-align : center;  
 }
 
 .mobileTitle {
@@ -43,8 +43,7 @@
 }
 
 .descriptive {
-    display: none;
-    
+    display: none;    
 }
 
 #themeColor1 {

@@ -56,13 +56,13 @@
                 as music transmitted orally, music with unknown composers, or music performed by custom over a long 
                 period of time. 
                 <a href="https://www.youtube.com/watch?v=AI1rAyllOSU&list=PL-bvrZjsC284y8bvgjtYWonbW_a0P_i6h&index=2" class="hideGoFurther" target="_blank">Go further ...</a></p>
-                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/AI1rAyllOSU"  frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/AI1rAyllOSU"  allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>
         </section>
         <hr class="blockSeparator" />
         <section title ="discoverSecondBlock">
             <div class= "discoverSecondBlock">
-                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/eMqKv7BOg_s"  frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/eMqKv7BOg_s"   allow="autoplay; encrypted-med" allowfullscreen></iframe>
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">WESTERN MUSIC : </span><br><br> Western music celebrates the lifestyle of the 
                 cowboy on the open ranges, Rocky Mountains, and prairies of Western North America. 
                 <a href="https://www.youtube.com/watch?v=eMqKv7BOg_s" class="hideGoFurther" target="_blank">Go further ...</a></p>
@@ -77,7 +77,7 @@
                 exclusively, or primarily of, the banjo. Banjo music can be played as a solo, or it can be played 
                 with a band. 
                 <a href="https://www.youtube.com/watch?v=B9FzVhw8_bY" class="hideGoFurther" target="_blank">Go further ...</a></p>
-                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/B9FzVhw8_bY"frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/B9FzVhw8_bY" allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>
         </section>
         

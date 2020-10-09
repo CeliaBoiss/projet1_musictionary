@@ -47,7 +47,7 @@
                 <img src="Images/bluesDelta.jpg" alt="Discover Photo" class = "discoverPicture">
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">DELTA BLUES : </span><br><br> One of the earliest-known styles of blues. It originated in the Mississippi Delta. Guitar and harmonica are its dominant instruments; slide guitar is a hallmark of the style. 
                 <a href="https://www.youtube.com/watch?v=NdgrQoZHnNY" class="hideGoFurther" target="_blank">Go further ...</a></p>
-                <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/NdgrQoZHnNY"allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/NdgrQoZHnNY" allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>
         </section>
         <hr class="blockSeparator"/> 

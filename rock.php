@@ -48,7 +48,7 @@
         <section title = "discoverFirstBlock">
             <div class="discoverFirstBlock">
                 <img src="Images/rockMetal.jpg" alt="Discover Photo" class = "discoverPicture">
-                <p class = "discoverBlockDisposition"><span class="subGenreTitle">METAL : </span><br><br> bands developed a thick, massive sound, characterized by distortion, extended guitar solos, emphatic beats, and loudness. The lyrics and performances are 
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">METAL : </span><br><br> Metal bands developed a thick, massive sound, characterized by distortion, extended guitar solos, emphatic beats, and loudness. The lyrics and performances are 
                 sometimes associated with aggression. 
                 <a href="https://www.youtube.com/watch?v=W3q8Od5qJio"  class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/W3q8Od5qJio"  allow="autoplay; encrypted-med" allowfullscreen></iframe>

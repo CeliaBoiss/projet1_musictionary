@@ -23,9 +23,9 @@
                             <h2 class ="desktopTitle">Black American Music</h2>
                             <p>The Black Amercian community has generated the foundations for basically every major modern musical genre you can think of!</p>
                         </div>
-                        <a class = "articleLink" href = "blues.php"><img class="articleImg" src="Images/bluesBanner.jpg" alt=""></a>
-                        <a class = "articleLink" href = "jazz.php"><img class="articleImg" src="Images/jazzBanner.jpg" alt=""></a>
-                        <a class = "articleLink" href = "rap.php"><img class="articleImg" src="Images/rapBanner.jpg" alt=""></a>
+                        <a class = "articleLink" href = "blues.php"><img id = "bluesImage" class="articleImg" src="Images/bluesBanner.jpg" alt=""></a>
+                        <a class = "articleLink" href = "jazz.php"><img id = "jazzImage" class="articleImg" src="Images/jazzBanner.jpg" alt=""></a>
+                        <a class = "articleLink" href = "rap.php"><img id = "rapImage" class="articleImg" src="Images/rapBanner.jpg" alt=""></a>
                     </article>
                 </div>
 
@@ -39,9 +39,9 @@
                             <h2 class ="desktopTitle">Children of the Blues</h2>
                             <p>Birthed in the USA by the Black community in the 19th century, the Blues is the root of modern music.</p>
                         </div>
-                        <a class = "articleLink" href = "rock.php"><img class="articleImg" src="Images/rockBanner.jpg" alt=""></a>
-                        <a class = "articleLink" href = "country.php"><img class="articleImg" src="Images/countryBanner.jpg" alt=""></a>
-                        <a class = "articleLink" href = "ska.php"><img class="articleImg" src="Images/skaBanner.jpg" alt=""></a>
+                        <a class = "articleLink" href = "rock.php"><img id = "rockImage" class="articleImg" src="Images/rockBanner.jpg" alt=""></a>
+                        <a class = "articleLink" href = "country.php"><img id = "countryImage" class="articleImg" src="Images/countryBanner.jpg" alt=""></a>
+                        <a class = "articleLink" href = "ska.php"><img id = "skaImage" class="articleImg" src="Images/skaBanner.jpg" alt=""></a>
                     </article>
                 </div>
 
@@ -55,9 +55,9 @@
                             <h2 class ="desktopTitle">"Pop" Music</h2>
                             <p>Not quite a "genre" per say, Pop Music is an umbrella term for everything and anything that's playing on the radio or at the top of the charts.</p>
                         </div>
-                        <a class = "articleLink" href = "RNB.php"><img class="articleImg" src="Images/rnbBanner.jpg" alt=""></a>
-                        <a class = "articleLink" href = "electro.php"><img class="articleImg" src="Images/electroBanner.jpg" alt=""></a>
-                        <a class = "articleLink" href = "disco.php"><img class="articleImg" src="Images/discoBanner.png" alt=""></a>
+                        <a class = "articleLink" href = "RNB.php"><img id = "rnbImage" class="articleImg" src="Images/rnbBanner.jpg" alt=""></a>
+                        <a class = "articleLink" href = "electro.php"><img id = "electroImage" class="articleImg" src="Images/electroBanner.jpg" alt=""></a>
+                        <a class = "articleLink" href = "disco.php"><img id = "discoImage" class="articleImg" src="Images/discoBanner.png" alt=""></a>
                     </article>
                 </div>
             </section>

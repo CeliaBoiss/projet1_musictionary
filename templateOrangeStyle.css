@@ -2,8 +2,13 @@
     background-color : rgba(255 , 155 , 0 , 0.40);
 }
 
-
 .mainTextePresentation {
     background-color : rgba(255 , 155 , 0 , 0.40);
     border-radius: 10px;
+}
+@media screen and (min-width: 812px) {
+
+    .chooseVideo:hover {
+        background-color : rgba(255 , 155 , 0 , 0.10);
+    }
 }

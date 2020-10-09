@@ -203,6 +203,10 @@ ul {
     .chooseVideo{
         font-size: 20px;
     }
+
+    .chooseVideo:hover {
+        cursor: pointer;
+    }
        
     .fewExample{
         margin-bottom: 15px;

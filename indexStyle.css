@@ -26,12 +26,13 @@
     align-items: center;
     flex-direction: column;
     width: auto;
-    height: 250px;
+    height: auto;
 }
 
 .articleLink {
     width: 80%;
-    height: 70px;
+    max-width : 450px;
+    height: auto;
     border-radius: 10px;
     margin-bottom: 1rem;
 }
@@ -40,6 +41,7 @@
     width: 100%;
     height: 100%;
     border-radius: 10px;
+
 }
 
 .descriptive {

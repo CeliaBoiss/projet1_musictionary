@@ -15,7 +15,7 @@
             <h2>Legal mentions</h2>
             <section>
                 <h4>Site Publisher</h3>
-                <p>MusicTionnary<br />49 Boulevard Preuilly, 37000 Tours, France <br /><br />Telephone: -<br />
+                <p>MusicTionary<br />49 Boulevard Preuilly, 37000 Tours, France <br /><br />Telephone: -<br />
                 Mail :-<br />Siret: -<br />APE: -</p>
             </section>
             <section>
@@ -39,8 +39,8 @@
                 right to object the use of this information provided you have legitimate reason. You can exercise this 
                 right and obtain information concerning your personal data by writing to the General Director of 
                 MusicTionary.</p>
-                <p>The automated processing of personal data performed by the site www.musictionnary.com was declared under 
-                number 1680511 vO and registered by the CNIL (France’s data protection authority) on 17 June 2013.</p>
+                <p>The automated processing of personal data performed by the site www.musictionary.com was declared under 
+                number xxxxxx and registered by the CNIL (France’s data protection authority) on xx xxxx 20xx.</p>
             </section>
             <section>
                 <h4>Intellectual Property and Public and Cultural Information</h4>
@@ -57,10 +57,10 @@
             </section>
             <section>
                 <h4>Registered Trademark</h4>
-                <p>The logo, the MusicTionary name and the domain name of the site www.femis.fr (www.musictionnary.com) 
+                <p>The logo, the MusicTionary name and the domain name of the site www.musictionary.fr (www.musictionary.com) 
                 are owned by MusicTionary and protected by France’s Intellectual Property Code; the use of any of these 
                 elements is prohibited without the prior express consent of MusicTionary. MusicTionary is a registered 
-                trademark protected by the INPI under number 3485183.</p>
+                trademark protected by the INPI under number xxxxxx.</p>
             </section>
             <section>
                 <h4>Public Administrative Information</h4>
@@ -75,9 +75,9 @@
             </section>
             <section>
                 <h4>Liability</h4>
-                <p>The site www.musictionnary.com contains numerous links to other sites, in particular official sites 
+                <p>The site www.musictionary.com contains numerous links to other sites, in particular official sites 
                 (institutions, public bodies, etc.) but also to sites of partner associations and companies. These web 
-                pages, the URLs of which are regularly checked, are not part of the public official site www.musictionnary.com.
+                pages, the URLs of which are regularly checked, are not part of the public official site www.musictionary.com.
                 MusicTionary cannot be held liable for the content of said websites nor any resulting damage or prejudice. 
                 Links to other sites are provided to users for information purposes only.</p>
             </section>

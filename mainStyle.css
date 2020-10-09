@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    height : calc(100% - 55px);
+    height : calc(100% - 60px);
     background-color: rgb(29, 29, 29);
     color : white;
     padding : 0;

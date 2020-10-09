@@ -203,10 +203,12 @@ ul {
 
     .chooseVideo{
         font-size: 20px;
+        transition: all 0.2s ease-in-out;
     }
 
     .chooseVideo:hover {
         cursor: pointer;
+        transition: all 0.2s ease-in-out;
     }
        
     .fewExample{

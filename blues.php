@@ -47,13 +47,13 @@
                 <img src="Images/bluesDelta.jpg" alt="Discover Photo" class = "discoverPicture">
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">DELTA BLUES : </span><br><br> One of the earliest-known styles of blues. It originated in the Mississippi Delta. Guitar and harmonica are its dominant instruments; slide guitar is a hallmark of the style. 
                 <a href="https://www.youtube.com/watch?v=NdgrQoZHnNY" class="hideGoFurther" target="_blank">Go further ...</a></p>
-                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/NdgrQoZHnNY"frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/NdgrQoZHnNY"allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>
         </section>
         <hr class="blockSeparator"/> 
         <section title ="discoverSecondBlock">
             <div class= "discoverSecondBlock">
-                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/bSfqNEvykv0" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/bSfqNEvykv0"  allow="autoplay; encrypted-med" allowfullscreen></iframe>
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">CHICAGO BLUES : </span><br><br> A form of blues music developed in Chicago, Illinois. It is based on earlier blues idioms, such as Delta blues, but performed in an urban style. 
                 <a href="https://www.youtube.com/watch?v=bSfqNEvykv0" class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <img src="Images/bluesChicago.jpg" alt="Discover Photo" class = "discoverPicture">
@@ -65,7 +65,7 @@
                 <img src="Images/bluesGospel.jpg" alt="Discover Photo" class  ="discoverPicture">
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">GOSPEL : </span><br><br> Gospel groups were very popular within the black community, but were virtually unknown to the white community, though some in the white community began to follow them. 
                 <a href="https://www.youtube.com/watch?v=xdzoeCuVs7w" class="hideGoFurther" target="_blank">Go further ...</a></p>
-                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/xdzoeCuVs7w"frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/xdzoeCuVs7w" allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>
         </section>
 

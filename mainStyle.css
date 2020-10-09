@@ -45,10 +45,14 @@ header {
     padding : 0;
 }
 
-#title a {
+#title a ,.letterRed {
     font-family: 'Staatliches';
     color : whitesmoke;
     text-decoration: none;
+}
+
+.letterRed {
+    color: red;
 }
 
 .mobileTitle {

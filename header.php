@@ -5,7 +5,7 @@
             <div class="bar2"></div>
             <div class="bar3"></div>
         </div>
-        <h1 id="title"><a href="index.php">MusicTionary</a></h1>
+        <h1 id="title"><a href="index.php"><span class="letterRed">M</span>usic<span class="letterRed">T</span>ionary</a></h1>
         <nav class='sideNav' id="mySideNav">
             <a href="javascript:void(0)" class="closeButton">&times;</a>
             <ul class = "nav">

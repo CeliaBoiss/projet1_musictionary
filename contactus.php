@@ -20,8 +20,8 @@
                 <input class = "contactInput" id = "email" type="email" placeholder="micky@rollingstones.cocaine" name="email" required>
                 <label for = "subject">Why do you contact us?</label>
                 <input class = "contactInput" id = "subject" type="text" placeholder="I can't get no satisfaction :(" name="subject">
-                <label for = "message">Enter your message here :</label>
-                <textarea id = "contactMessage" id = "message" placeholder="When I'm drivin' in my car, and the man come on the radio, he's tellin' me more and more about some useless information." name="message" required></textarea>
+                <label for = "contactMessage">Enter your message here :</label>
+                <textarea id = "contactMessage" placeholder="When I'm drivin' in my car, and the man come on the radio, he's tellin' me more and more about some useless information." name="message" required></textarea>
                 <button id = "sendButton">Send !</button>
             </form>
         </main>    

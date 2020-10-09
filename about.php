@@ -32,7 +32,7 @@
 
         <article class = "member" id = "yann">
             <p class = "description right desktopRight">
-                Yann,<br>Certified Genre Classification Expert 
+                Yann,<br>Certified Genre Classification Expert and W3C Checker
             </p>
             <img class = "profileImage left desktopLeft" src="Images/yann.jpg" alt="yann">
         </article>

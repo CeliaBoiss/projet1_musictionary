@@ -116,10 +116,11 @@ footer {
     color: whitesmoke;
     margin: 1rem;
     text-decoration: none;
+    transition: all 0.3s ease-in-out;
 }
 
 #returnTop:hover {
-    border-bottom: 2px solid whitesmoke;
+    transform: scale(1.10);
     color: rgb(161, 161, 161);
     cursor: pointer;
     transition: all 0.3s ease-in-out;
@@ -211,6 +212,7 @@ p , span{
     .footerLink a {
         transition: all 0.2s ease-in-out;
     }
+
 }
 
 @media screen and (max-width : 420px) {

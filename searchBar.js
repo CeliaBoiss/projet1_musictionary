@@ -29,6 +29,8 @@ function findThePage ()
         window.location.replace("electro.php");
     } else if (mySearch === "disco") {
         window.location.replace("disco.php");
+    }   else if (mySearch === "legal" || mySearch === "mentions" || mySearch === "legal mentions") {
+        window.location.replace("legalMentions.php");
     }
 }
 

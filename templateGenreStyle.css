@@ -2,8 +2,7 @@
 
 
 .mainTitleGenre{
-
-    height: 200px;
+    height: auto;
     width: 100%;
     border-radius: 10px;;
 }
@@ -116,7 +115,8 @@ ul {
 @media screen and (min-width: 812px) {
 
     .mainTitleGenre{
-        height: 600px;
+        height: auto;
+        width: 100%;
     }
 
     .video{

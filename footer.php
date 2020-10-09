@@ -1,5 +1,5 @@
 <footer>
-    <a id="returnTop" href="#title">Return to the top</a>
+    <button id="returnTop">Top</button>
     <div id = "footerFlexDiv">
         <ul class = "footerList">
             <li class = "footerLink"><a href="about.php">About Us</a></li>

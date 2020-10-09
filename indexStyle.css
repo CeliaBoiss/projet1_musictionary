@@ -117,7 +117,7 @@ p {
         align-items: center;
         flex-direction: column;
         box-sizing : border-box;
-        font-size: 132%;
+        font-size: 128%;
     }
 
     .mobileTitle {

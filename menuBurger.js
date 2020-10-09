@@ -1,5 +1,9 @@
 function openNav() {
-    document.getElementById('mySideNav').style.width = "250px";
+    if (window.matchMedia("(min-width: 812px)").matches) {
+        document.getElementById('mySideNav').style.width = "250px";
+    } else {
+        document.getElementById('mySideNav').style.width = "160px";
+    }
     document.querySelector('.nav').style.display = "flex";
 }
 

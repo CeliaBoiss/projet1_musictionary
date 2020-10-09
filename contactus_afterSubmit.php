@@ -30,5 +30,6 @@
     <script src="contactus_afterSubmit.js"></script>
     <script src="menuBurger.js"></script>
     <script src="searchBar.js"></script>
+    <script src="footer.js"></script>
 </body>
 </html>

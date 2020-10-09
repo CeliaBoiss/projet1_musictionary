@@ -16,32 +16,32 @@
 
         <h2>About Us</h2>
 
-        <article class = "member">
-            <p class = "description right">
+        <article class = "member" id = "celia">
+            <p class = "description right desktopRight">
                 Célia,<br>Patron Saint of Fully Functional Functionalities
             </p>
-            <img class = "profileImage left" src="Images/celia.jpg" alt="célia">
+            <img class = "profileImage left desktopLeft" src="Images/celia.jpg" alt="célia">
         </article>
 
-        <article class = "member">
-            <p class = "description left">
+        <article class = "member" id = "achille">
+            <p class = "description left desktopRight">
                 Achille,<br>His Holiness our Supreme Design Guru
             </p>
-            <img class = "profileImage right" src="Images/achille.jpg" alt="achille">
+            <img class = "profileImage right desktopLeft" src="Images/achille.jpg" alt="achille">
         </article>
 
-        <article class = "member">
-            <p class = "description right">
+        <article class = "member" id = "yann">
+            <p class = "description right desktopRight">
                 Yann,<br>Certified Genre Classification Expert 
             </p>
-            <img class = "profileImage left" src="Images/yann.jpg" alt="yann">
+            <img class = "profileImage left desktopLeft" src="Images/yann.jpg" alt="yann">
         </article>
 
-        <article class = "member">
-            <p class = "description left">
+        <article class = "member" id = "lucy">
+            <p class = "description left desktopRight">
                 Lucy,<br>Professional Tea Drinker
             </p>
-            <img class = "profileImage right" src="Images/lucy.jpg" alt="lucy">
+            <img class = "profileImage right desktopLeft" src="Images/lucy.jpg" alt="lucy">
         </article>
     </main>
 

@@ -49,6 +49,7 @@ header {
     font-family: 'Staatliches';
     color : whitesmoke;
     text-decoration: none;
+    transition: all 0.2s ease-in-out;
 }
 
 .letterRed {
@@ -121,6 +122,7 @@ footer {
     border-bottom: 2px solid whitesmoke;
     color: rgb(161, 161, 161);
     cursor: pointer;
+    transition: all 0.3s ease-in-out;
 }
 
 a {
@@ -147,6 +149,7 @@ p , span{
     cursor: pointer;
     padding: 15px;
     border-radius: 50%;
+    transition: all 0.1s ease-in-out;
   }
 
 @media screen and (min-width : 812px) {
@@ -169,6 +172,7 @@ p , span{
 
     #title a:hover {
         color: rgb(116, 116, 116);
+        transition: all 0.2s ease-in-out;
     }
 
     h2 , h3{
@@ -196,10 +200,16 @@ p , span{
 
     #returnTop:hover {
         background-color: #b61401;
+        transition: all 0.1s ease-in-out;
     }
 
     .footerLink a:hover {
         color: rgb(161, 161, 161);
+        transition: all 0.2s ease-in-out;
+    }
+
+    .footerLink a {
+        transition: all 0.2s ease-in-out;
     }
 }
 

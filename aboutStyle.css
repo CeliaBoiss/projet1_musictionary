@@ -32,3 +32,67 @@
     width : 70%;
     border-radius : 50%;
 }
+
+@media screen and (min-width : 812px) {
+
+    main {
+        display : grid;
+        grid-template-columns : 50% 50%;
+        grid-template-rows : 32% auto 32% 32%;
+        flex-direction : column;
+        align-content : center;
+        justify-content : center;
+    }
+
+    h2 {
+        grid-column-start : 1;
+        grid-column-end: 3;
+    }
+
+    #celia {
+        grid-column : 1;
+        grid-row : 3;        
+    }
+
+    #achille {
+        grid-column : 2;
+        grid-row : 3;        
+    }
+
+    #yann {
+        grid-column : 1;
+        grid-row : 4;        
+    }
+
+    #lucy {
+        grid-column : 2;
+        grid-row : 4;        
+    }
+
+    .member {
+        justify-self : center;
+        display : grid;
+        grid-template-columns : 50% 50%;
+        grid-template-rows : 100px;
+        width : 100%;
+        max-width : 400px;
+        margin: 50px 0 50px 0;
+    }
+
+    .desktopRight {
+        grid-column : 2;
+        grid-row : 1;
+        justify-self : center;
+        align-self : center;
+        text-align : left;
+    }
+
+    .desktopLeft {
+        grid-column : 1;
+        grid-row : 1;
+        justify-self : center;
+        align-self : center;
+        text-align : left;
+    }
+
+}

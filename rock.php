@@ -51,13 +51,13 @@
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">METAL : </span><br><br> bands developed a thick, massive sound, characterized by distortion, extended guitar solos, emphatic beats, and loudness. The lyrics and performances are 
                 sometimes associated with aggression. 
                 <a href="https://www.youtube.com/watch?v=W3q8Od5qJio"  class="hideGoFurther" target="_blank">Go further ...</a></p>
-                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/W3q8Od5qJio" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/W3q8Od5qJio"  allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>
         </section>
         <hr class="blockSeparator"/> 
         <section title ="discoverSecondBlock">
             <div class= "discoverSecondBlock">
-                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/wvu2-xQUNQI" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/wvu2-xQUNQI" allow="autoplay; encrypted-med" allowfullscreen></iframe>
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">PUNK : </span><br><br> They typically produced short, fast-paced songs with hard-edged melodies and singing styles, stripped-down instrumentation, and often political, 
                 anti-establishment lyrics. <a href="https://www.youtube.com/watch?v=wvu2-xQUNQI"  class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <img src="Images/rockPunk.jpg" alt="Discover Photo" class = "discoverPicture">
@@ -70,7 +70,7 @@
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">POST ROCK : </span><br><br>  Post-rock is a form of experimental rock characterized by a 
                 focus on exploring textures and timbre over traditional rock song structures, chords, or riffs. 
                 <a href="https://www.youtube.com/watch?v=mZTb8WxEW78"  class="hideGoFurther" target="_blank">Go further ...</a></p>	
-                <iframe id="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/mZTb8WxEW78" frameborder="0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
+                <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/mZTb8WxEW78"  allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>
         </section>
         

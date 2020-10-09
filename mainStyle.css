@@ -132,7 +132,8 @@ p , span{
 @media screen and (min-width : 812px) {
 
     main {
-        max-width : 1400px;
+        width : 90vw;
+        max-width : 1000px;
     }
 
     header {

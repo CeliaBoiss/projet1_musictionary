@@ -86,6 +86,6 @@
         <script src="menuBurger.js"></script>
         <script src="searchBar.js"></script>
         <script src="index.js"></script>
-        <script src="footer.js"></script>
+        <script src="headerFooter.js"></script>
     </body>
 </html>

@@ -25,7 +25,8 @@ function scrollFunction() {
 
 //when click on "go top" button, return to the top of the page
 function topFunction() {
-    document.documentElement.scrollTop = 0;
+    window.scrollTo({top: 0, behavior: 'smooth'});
+    //document.documentElement.scrollTop = 0;
 } 
 
 window.addEventListener('scroll', scrollFunction);

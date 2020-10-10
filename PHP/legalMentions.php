@@ -14,25 +14,25 @@
         <?php include "../PHP/header.php"?>
         <main>
             <h2>Legal mentions</h2>
-            <section>
+            <section title="site publisher">
                 <h4>Site Publisher</h3>
                 <p>MusicTionary<br />49 Boulevard Preuilly, 37000 Tours, France <br /><br />Telephone: -<br />
                 Mail :-<br />Siret: -<br />APE: -</p>
             </section>
-            <section>
+            <section title="head of publication">
                 <h4>Head of Publication</h4>
                 <p>Yann Raulet, Lucy Merlier, Achille Bellay and Célia Boisseau - Wild Code School sept 2020</p>
             </section>
-            <section>
+            <section title="hosting">
                 <h4>Hosting</h4>
                 <p>Magali Guignard and Romain Clair<br />49 Boulevard Preuilly, 37000 Tours, France<br /><br />Telephone: -
                 <br />Siret: -<br />APE: -</p>
             </section>
-            <section>
+            <section title="photo credits">
                 <h4>Photo credits</h4>
                 <p>Pixabay - Royalty free</p>
             </section>
-            <section>
+            <section title="personal data">
                 <h4>Personal Data</h4>
                 <p>Your personal data may be collected when browsing this website. Emails sent to MusicTionary and 
                 the email addresses used to send information may also be stored. Pursuant to France’s Data Protection Act 
@@ -43,7 +43,7 @@
                 <p>The automated processing of personal data performed by the site www.musictionary.com was declared under 
                 number xxxxxx and registered by the CNIL (France’s data protection authority) on xx xxxx 20xx.</p>
             </section>
-            <section>
+            <section title="intellectual property">
                 <h4>Intellectual Property and Public and Cultural Information</h4>
                 <p>The overall structure of the website and the software and databases are the exclusive property of 
                 MusicTionary.</p>
@@ -56,14 +56,14 @@
                 This relates in particular to any text featured on the site but also any page designs, logos, images, 
                 photos, videos, graphics and any other content of any kind whatsoever.</p>
             </section>
-            <section>
+            <section title="registered trademark">
                 <h4>Registered Trademark</h4>
                 <p>The logo, the MusicTionary name and the domain name of the site www.musictionary.fr (www.musictionary.com) 
                 are owned by MusicTionary and protected by France’s Intellectual Property Code; the use of any of these 
                 elements is prohibited without the prior express consent of MusicTionary. MusicTionary is a registered 
                 trademark protected by the INPI under number xxxxxx.</p>
             </section>
-            <section>
+            <section title="public administrative information">
                 <h4>Public Administrative Information</h4>
                 <p>The information and programming content on this site is considered public administrative information 
                 under Article 10 of Law no. 78-753 of 17 July 1978. The re-use of this information is authorised, provided 
@@ -74,7 +74,7 @@
                 found re-using public information in violation of the provisions above is liable to a fine issued by the 
                 Commission for Access to Administrative Documents (CADA).</p>
             </section>
-            <section>
+            <section title="liability">
                 <h4>Liability</h4>
                 <p>The site www.musictionary.com contains numerous links to other sites, in particular official sites 
                 (institutions, public bodies, etc.) but also to sites of partner associations and companies. These web 

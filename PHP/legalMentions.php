@@ -86,7 +86,6 @@
         <?php include "../PHP/footer.php"?>
         <script src="../JavaScript/menuBurger.js"></script>
         <script src="../JavaScript/searchBar.js"></script>
-        <script src="../JavaScript/index.js"></script>
         <script src="../JavaScript/headerFooter.js"></script>
     </body>
 </html>

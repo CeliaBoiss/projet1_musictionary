@@ -15,15 +15,15 @@ let discoImage = document.querySelector('#discoImage');
 // code to change image link in index so that it's of appropriate size in desktop version
 
 if (window.matchMedia("(min-width: 812px)").matches) {
-    bluesImage.src = "Images/bluesBox.jpg";
-    jazzImage.src = "Images/jazzBox.jpg";
-    rapImage.src = "Images/rapBox.jpg";
-    rockImage.src = "Images/rockBox.jpg";
-    countryImage.src = "Images/countryBox.jpg";
-    skaImage.src = "Images/skaBox.jpg";
-    rnbImage.src = "Images/rnbBox.jpg";
-    electroImage.src = "Images/electroBox.jpg";
-    discoImage.src = "Images/discoBox.png";
+    bluesImage.src = "../Images/bluesBox.jpg";
+    jazzImage.src = "../Images/jazzBox.jpg";
+    rapImage.src = "../Images/rapBox.jpg";
+    rockImage.src = "../Images/rockBox.jpg";
+    countryImage.src = "../Images/countryBox.jpg";
+    skaImage.src = "../Images/skaBox.jpg";
+    rnbImage.src = "../Images/rnbBox.jpg";
+    electroImage.src = "../Images/electroBox.jpg";
+    discoImage.src = "../Images/discoBox.png";
 }
 
 function showOrHide(event)

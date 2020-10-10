@@ -3,14 +3,15 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">    
-        <link rel = "stylesheet" href = "mainStyle.css">
-        <link rel="stylesheet" href="indexStyle.css">
-        <link rel="stylesheet" href="menuBurger.css">
-        <link rel="stylesheet" href="legalMentionsStyle.css">
+        <link rel = "stylesheet" href = "../Style/mainStyle.css">
+        <link rel="stylesheet" href="../Style/indexStyle.css">
+        <link rel="stylesheet" href="../Style/menuBurger.css">
+        <link rel="stylesheet" href="../Style/legalMentionsStyle.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <title>MusicTionary</title>
     </head>
     <body>
-        <?php include "header.php"?>
+        <?php include "../PHP/header.php"?>
         <main>
             <h2>Legal mentions</h2>
             <section>
@@ -82,10 +83,10 @@
                 Links to other sites are provided to users for information purposes only.</p>
             </section>
         </main>
-        <?php include "footer.php"?>
-        <script src="menuBurger.js"></script>
-        <script src="searchBar.js"></script>
-        <script src="index.js"></script>
-        <script src="footer.js"></script>
+        <?php include "../PHP/footer.php"?>
+        <script src="../JavaScript/menuBurger.js"></script>
+        <script src="../JavaScript/searchBar.js"></script>
+        <script src="../JavaScript/index.js"></script>
+        <script src="../JavaScript/headerFooter.js"></script>
     </body>
 </html>

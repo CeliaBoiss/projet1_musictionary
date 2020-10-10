@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel = "stylesheet" href = "mainStyle.css">
-    <link rel="stylesheet" href="menuBurger.css">
+    <link rel = "stylesheet" href = "../Style/mainStyle.css">
+    <link rel="stylesheet" href="../Style/menuBurger.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="templateBlueStyle.css"/>
-    <link rel="stylesheet" type="text/css" href="templateGenreStyle.css"/>
+    <link rel="stylesheet" type="text/css" href="../Style/templateBlueStyle.css"/>
+    <link rel="stylesheet" type="text/css" href="../Style/templateGenreStyle.css"/>
     <title>MusicTionary</title>
 </head>
 <body>
-    <?php include "header.php"?>
+    <?php include "../PHP/header.php"?>
   
     <main>
 
         <section title = "Genre">
-            <p><img src="Images/skaMain.jpg" alt="Main Title Genre" class="mainTitleGenre"></p>
+            <p><img src="../Images/skaMain.jpg" alt="Main Title Genre" class="mainTitleGenre"></p>
             <div class  = "mainTextePresentation">
                 <p>Ska is a musical genre that originated in Jamaica in the late 1950s and was the forerunner of rocksteady and reggae.</p>
                 <p>He combined elements of Caribbean mento and calypso with American jazz and rhythm and blues.</p>
@@ -45,7 +45,7 @@
         <hr class="blockSeparator"/> 
         <section title = "discoverFirstBlock">
                 <div class="discoverFirstBlock">
-                    <img src="Images/reggae.jpg" alt="Discover Photo" class = "discoverPicture">
+                    <img src="../Images/reggae.jpg" alt="Discover Photo" class = "discoverPicture">
                     <p class = "discoverBlockDisposition"><span class="subGenreTitle">REGGAE : </span><br><br> is a music genre that originated in Jamaica in the late 1960s. The term also denotes the modern popular music of Jamaica and its diaspora.
                     <a href="https://www.youtube.com/watch?v=NUn3lj64oNw" class="hideGoFurther" target="_blank">Go further ...</a></p>
                     <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/NUn3lj64oNw" allow="autoplay; encrypted-med" allowfullscreen></iframe>
@@ -57,26 +57,24 @@
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/DhKHAopx7D0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">SKA PUNK : </span><br><br>(also spelled ska-punk) is a fusion genre that mixes ska music and punk rock music together.
                 <a href="https://www.youtube.com/embed/DhKHAopx7D0"  class="hideGoFurther"  target="_blank">Go further ...</a></p>
-                <img src="Images/skapunk.jpg" alt="Discover Photo" class = "discoverPicture">
+                <img src="../Images/skapunk.jpg" alt="Discover Photo" class = "discoverPicture">
             </div>
         </section>
         <hr class="blockSeparator"/>
         <section title ="discoverThirdBlock">
             <div class="discoverThirdBlock">
-                <img src="Images/dub.jpeg" alt="Discover Photo" class  ="discoverPicture">
+                <img src="../Images/dub.jpeg" alt="Discover Photo" class  ="discoverPicture">
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">DUB : </span><br><br> is a genre of electronic music that grew out of reggae in the late 1960s and early 1970s, and is commonly considered a subgenre, though it has developed to extend beyond the scope of reggae.
                 <a href="https://www.youtube.com/watch?v=QTP5I4x1Yr0" class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/QTP5I4x1Yr0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>
         </section>
-
-    <script src="ska.js"></script>
-
     </main>
 
-    <?php include "footer.php"?>
-    <script src="menuBurger.js"></script>
-    <script src="searchBar.js"></script>
-    <script src="footer.js"></script>
+    <?php include "../PHP/footer.php"?>
+    <script src="../JavaScript/menuBurger.js"></script>
+    <script src="../JavaScript/searchBar.js"></script>
+    <script src="../JavaScript/ska.js"></script>
+    <script src="../JavaScript/headerFooter.js"></script>
 </body>
 </html>

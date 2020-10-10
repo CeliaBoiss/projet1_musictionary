@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel = "stylesheet" href = "mainStyle.css">
-    <link rel="stylesheet" href="menuBurger.css">
+    <link rel = "stylesheet" href = "../Style/mainStyle.css">
+    <link rel="stylesheet" href="../Style/menuBurger.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="templateGenreStyle.css"/>
-    <link rel="stylesheet" type="text/css" href="templateGreenStyle.css"/>
+    <link rel="stylesheet" type="text/css" href="../Style/templateGenreStyle.css"/>
+    <link rel="stylesheet" type="text/css" href="../Style/templateGreenStyle.css"/>
     <title>MusicTionary</title>
 </head>
 <body>
-    <?php include "header.php"?>
+    <?php include "../PHP/header.php"?>
   
     <main>
 
         <section title = "Genre">
-            <p><img src="Images/bluesMain.jpg" alt="Main Title Genre" class="mainTitleGenre"></p>
+            <p><img src="../Images/bluesMain.jpg" alt="Main Title Genre" class="mainTitleGenre"></p>
             <div class  = "mainTextePresentation">
                 <p>Blues is almost as old as popular music itself. Its rich history streams through various genres, just like the Mississippi river carried musicians from Minneapolis to southern New Orleans. At first, Blues was dominantly associated with anything vice; it was regarded as the song of outlaws and criminals. But Blues must rather be seen as an outlet or cry for the people on the border of society: the poor, blind, unfortunate and particularly, the black.</p>
                 <p>Blues music (also known as Blue Music) is characterized by use of guitar, single at first and later complemented by drums and bass. Songs are written in an AAB rhyme, in harmonic sequences and onto a 12 bar 4/4 rhythm.</p>
@@ -44,7 +44,7 @@
         <hr class="blockSeparator"/> 
         <section title = "discoverFirstBlock">
             <div class="discoverFirstBlock">
-                <img src="Images/bluesDelta.jpg" alt="Discover Photo" class = "discoverPicture">
+                <img src="../Images/bluesDelta.jpg" alt="Discover Photo" class = "discoverPicture">
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">DELTA BLUES : </span><br><br> One of the earliest-known styles of blues. It originated in the Mississippi Delta. Guitar and harmonica are its dominant instruments; slide guitar is a hallmark of the style. 
                 <a href="https://www.youtube.com/watch?v=NdgrQoZHnNY" class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/NdgrQoZHnNY" allow="autoplay; encrypted-med" allowfullscreen></iframe>
@@ -56,27 +56,24 @@
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/bSfqNEvykv0"  allow="autoplay; encrypted-med" allowfullscreen></iframe>
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">CHICAGO BLUES : </span><br><br> A form of blues music developed in Chicago, Illinois. It is based on earlier blues idioms, such as Delta blues, but performed in an urban style. 
                 <a href="https://www.youtube.com/watch?v=bSfqNEvykv0" class="hideGoFurther" target="_blank">Go further ...</a></p>
-                <img src="Images/bluesChicago.jpg" alt="Discover Photo" class = "discoverPicture">
+                <img src="../Images/bluesChicago.jpg" alt="Discover Photo" class = "discoverPicture">
             </div>
         </section>
         <hr class="blockSeparator"/> 
         <section title ="discoverThirdBlock">
             <div class="discoverThirdBlock">
-                <img src="Images/bluesGospel.jpg" alt="Discover Photo" class  ="discoverPicture">
+                <img src="../Images/bluesGospel.jpg" alt="Discover Photo" class  ="discoverPicture">
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">GOSPEL : </span><br><br> Gospel groups were very popular within the black community, but were virtually unknown to the white community, though some in the white community began to follow them. 
                 <a href="https://www.youtube.com/watch?v=xdzoeCuVs7w" class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/xdzoeCuVs7w" allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>
         </section>
-
-
-    <script src="blues.js"></script>
-
     </main>
 
-    <?php include "footer.php"?>
-    <script src="menuBurger.js"></script>
-    <script src="searchBar.js"></script>
-    <script src="footer.js"></script>
+    <?php include "../PHP/footer.php"?>
+    <script src="../JavaScript/menuBurger.js"></script>
+    <script src="../JavaScript/searchBar.js"></script>
+    <script src="../JavaScript/blues.js"></script>
+    <script src="../JavaScript/headerFooter.js"></script>
 </body>
 </html>

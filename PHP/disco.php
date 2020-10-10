@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel = "stylesheet" href = "mainStyle.css">
-    <link rel="stylesheet" href="menuBurger.css">
+    <link rel = "stylesheet" href = "../Style/mainStyle.css">
+    <link rel="stylesheet" href="../Style/menuBurger.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
-    <link rel="stylesheet" type="text/css" href="templateGenreStyle.css"/>
-    <link rel="stylesheet" type="text/css" href="templateOrangeStyle.css"/>
+    <link rel="stylesheet" type="text/css" href="../Style/templateGenreStyle.css"/>
+    <link rel="stylesheet" type="text/css" href="../Style/templateOrangeStyle.css"/>
     <title>MusicTionary</title>
 </head>
 <body>
-    <?php include "header.php"?>
+    <?php include "../PHP/header.php"?>
   
     <main>
 
         <section title = "Genre">
-            <p><img src="Images/disco.png" alt="Main Title Genre" class="mainTitleGenre"></p>
+            <p><img src="../Images/disco.png" alt="Main Title Genre" class="mainTitleGenre"></p>
             <div class  = "mainTextePresentation">
                 <p>Disco is a musical genre and dance that emerged in the United States in the mid-1970s. From funk, soul, pop, salsa and psychedelic genres, enriched by electronic orchestration including strings and brass and then synthesizers. 
                 The term derives from the French word "discothèque". Disco emerges as a response to the dominance of the rock scene and the stigmatization of dance music by the counterculture during this period.</p>
@@ -46,7 +46,7 @@
         <hr class="blockSeparator"/> 
         <section title = "discoverFirstBlock">
             <div class="discoverFirstBlock">
-                <img src="Images/bluesGospel.jpg" alt="Discover Photo" class = "discoverPicture">
+                <img src="../Images/bluesGospel.jpg" alt="Discover Photo" class = "discoverPicture">
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">GOSPEL : </span><br><br>Gospel groups were very popular within the black community, 
                 but were virtually unknown to the white community, though some in the white community began to follow them. 
                 <a href="https://www.youtube.com/watch?v=xdzoeCuVs7w" class="hideGoFurther" target="_blank">Go further ...</a></p>
@@ -60,13 +60,13 @@
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">FUNK : </span><br><br>Emerged in the mid-1960s in the United States, and that developed in the 1960s and 1970s, 
                 is characterized by the presence of rhythmic section (guitar, bass, drums), brass or saxophones on rhythmic punctuation (riffs) or solos. 
                 <a href="https://www.youtube.com/watch?v=uY4cVhXxW64" class="hideGoFurther" target="_blank">Go further ...</a></p>
-                <img src="Images/funk.png" alt="Discover Photo" class = "discoverPicture">
+                <img src="../Images/funk.png" alt="Discover Photo" class = "discoverPicture">
             </div>
         </section>
         <hr class="blockSeparator"/>
         <section title ="discoverThirdBlock">
             <div class="discoverThirdBlock">
-                <img src="Images/jazzBebop.jpg" alt="Discover Photo" class  ="discoverPicture">
+                <img src="../Images/jazzBebop.jpg" alt="Discover Photo" class  ="discoverPicture">
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">BEBOP : </span> <br><br>This style, which leaves room for interpretation, 
                 is characterized by an often very fast tempo, dynamic phrasing and by the fact that it is not necessarily linked to the dance.
                 <a href="https://www.youtube.com/watch?v=okZYCS_TCO8&feature=emb_logo" class="hideGoFurther" target="_blank">Go further ...</a></p>
@@ -74,14 +74,12 @@
             </div>
             
         </section>
-
-    <script src="disco.js"></script>
-
     </main>
 
-    <?php include "footer.php"?>
-    <script src="menuBurger.js"></script>
-    <script src="searchBar.js"></script>
-    <script src="footer.js"></script>
+    <?php include "../PHP/footer.php"?>
+    <script src="../JavaScript/menuBurger.js"></script>
+    <script src="../JavaScript/searchBar.js"></script>
+    <script src="../JavaScript/disco.js"></script>
+    <script src="../JavaScript/headerFooter.js"></script>
 </body>
 </html>

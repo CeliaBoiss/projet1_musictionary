@@ -3,19 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel = "stylesheet" href = "mainStyle.css">
-    <link rel="stylesheet" href="menuBurger.css">
-    <link rel="stylesheet" type="text/css" href="templateGenreStyle.css"/>
-    <link rel="stylesheet" href="templateBlueStyle.css">
+    <link rel = "stylesheet" href = "../Style/mainStyle.css">
+    <link rel="stylesheet" href="../Style/menuBurger.css">
+    <link rel="stylesheet" type="text/css" href="../Style/templateGenreStyle.css"/>
+    <link rel="stylesheet" href="../Style/templateBlueStyle.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>MusicTionary</title>
 </head>
 <body>
-    <?php include "header.php"?>
+    <?php include "../PHP/header.php"?>
   
     <main>
 
         <section title = "Genre">
-            <p><img src="Images/rockMain.jpg" alt="Main Title Genre" class="mainTitleGenre"></p>
+            <p><img src="../Images/rockMain.jpg" alt="Main Title Genre" class="mainTitleGenre"></p>
             <div class  = "mainTextePresentation">
                 <p>Rock music is a broad genre of popular music that originated as "rock and roll" in the United States in the late 1940s and early 1950s, and developed into a range of different styles in the mid-1960s and 
                 later, particularly in the United States and the United Kingdom.</p>
@@ -47,7 +48,7 @@
         <hr class="blockSeparator"/> 
         <section title = "discoverFirstBlock">
             <div class="discoverFirstBlock">
-                <img src="Images/rockMetal.jpg" alt="Discover Photo" class = "discoverPicture">
+                <img src="../Images/rockMetal.jpg" alt="Discover Photo" class = "discoverPicture">
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">METAL : </span><br><br> Metal bands developed a thick, massive sound, characterized by distortion, extended guitar solos, emphatic beats, and loudness. The lyrics and performances are 
                 sometimes associated with aggression. 
                 <a href="https://www.youtube.com/watch?v=W3q8Od5qJio"  class="hideGoFurther" target="_blank">Go further ...</a></p>
@@ -60,13 +61,13 @@
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/wvu2-xQUNQI" allow="autoplay; encrypted-med" allowfullscreen></iframe>
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">PUNK : </span><br><br> They typically produced short, fast-paced songs with hard-edged melodies and singing styles, stripped-down instrumentation, and often political, 
                 anti-establishment lyrics. <a href="https://www.youtube.com/watch?v=wvu2-xQUNQI"  class="hideGoFurther" target="_blank">Go further ...</a></p>
-                <img src="Images/rockPunk.jpg" alt="Discover Photo" class = "discoverPicture">
+                <img src="../Images/rockPunk.jpg" alt="Discover Photo" class = "discoverPicture">
             </div>
         </section>
         <hr class="blockSeparator"/> 
         <section title ="discoverThirdBlock">
             <div class="discoverThirdBlock">
-                <img src="Images/rockPostRock.jpg" alt="Discover Photo" class  ="discoverPicture">
+                <img src="../Images/rockPostRock.jpg" alt="Discover Photo" class  ="discoverPicture">
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">POST ROCK : </span><br><br>  Post-rock is a form of experimental rock characterized by a 
                 focus on exploring textures and timbre over traditional rock song structures, chords, or riffs. 
                 <a href="https://www.youtube.com/watch?v=mZTb8WxEW78"  class="hideGoFurther" target="_blank">Go further ...</a></p>	
@@ -75,10 +76,10 @@
         </section>
         
     </main>
-    <?php include "footer.php"?>
-    <script src="menuBurger.js"></script>
-    <script src="searchBar.js"></script>
-    <script src="rock.js"></script>
-    <script src="headerFooter.js"></script>
+    <?php include "../PHP/footer.php"?>
+    <script src="../JavaScript/menuBurger.js"></script>
+    <script src="../JavaScript/searchBar.js"></script>
+    <script src="../JavaScript/rock.js"></script>
+    <script src="../JavaScript/headerFooter.js"></script>
 </body>
 </html>

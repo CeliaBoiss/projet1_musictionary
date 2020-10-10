@@ -8,31 +8,31 @@ function findThePage ()
     mySearch=mySearch.toLowerCase(); 
 
     if (mySearch === "contact" || mySearch === "contact us" || mySearch === "contactus") {
-        window.location.replace("contactus.php");
+        window.location.replace("../PHP/contactus.php");
     } else if (mySearch === "about" || mySearch === "about us" || mySearch === "aboutus") {
-        window.location.replace("about.php");
+        window.location.replace("../PHP/about.php");
     } else if (mySearch === "index" || mySearch === "accueil" || mySearch === "home") {
-        window.location.replace("index.php");
+        window.location.replace("../public/index.php");
     } else if (mySearch === "blues") {
-        window.location.replace("blues.php");
+        window.location.replace("../PHP/blues.php");
     } else if (mySearch === "jazz") {
-        window.location.replace("jazz.php");
+        window.location.replace("../PHP/jazz.php");
     } else if (mySearch === "rap") {
-        window.location.replace("rap.php");
+        window.location.replace("../PHP/rap.php");
     } else if (mySearch === "rock") {
-        window.location.replace("rock.php");
+        window.location.replace("../PHP/rock.php");
     } else if (mySearch === "country") {
-        window.location.replace("country.php");
+        window.location.replace("../PHP/country.php");
     } else if (mySearch === "ska") {
-        window.location.replace("ska.php");
+        window.location.replace("../PHP/ska.php");
     } else if (mySearch === "rnb") {
-        window.location.replace("rnb.php");
+        window.location.replace("../PHP/RNB.php");
     } else if (mySearch === "electro") {
-        window.location.replace("electro.php");
+        window.location.replace("../PHP/electro.php");
     } else if (mySearch === "disco") {
-        window.location.replace("disco.php");
+        window.location.replace("../PHP/disco.php");
     }   else if (mySearch === "legal" || mySearch === "mentions" || mySearch === "legal mentions") {
-        window.location.replace("legalMentions.php");
+        window.location.replace("../PHP/legalMentions.php");
     }
 }
 

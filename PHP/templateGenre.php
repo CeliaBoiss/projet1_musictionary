@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel = "stylesheet" href = "mainStyle.css">
-    <link rel="stylesheet" href="menuBurger.css">
+    <link rel = "stylesheet" href = "../Style/mainStyle.css">
+    <link rel="stylesheet" href="../Style/menuBurger.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="templateGenreStyle.css"/>
+    <link rel="stylesheet" type="text/css" href="../Style/templateGenreStyle.css"/>
     <title>MusicTionary</title>
 </head>
 <body>
-    <?php include "header.php"?>
+    <?php include "../PHP/header.php"?>
   
     <main>
 
@@ -43,35 +43,32 @@
         <h2>Discover More</h2>
 
         <section title = "discoverFirstBlock">
-                <div class="discoverFirstBlock">
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
-                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. <a href="">Go further ...</a></p>
-                </div>
-            </section>
+            <div class="discoverFirstBlock">
+                <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
+                <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. <a href="">Go further ...</a></p>
+            </div>
+        </section>
 
-            <section title ="discoverSecondBlock">
-                <div class= "discoverSecondBlock">
-                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. <a href="">Go further ...</a></p>
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
-                </div>
-            </section>
+        <section title ="discoverSecondBlock">
+            <div class= "discoverSecondBlock">
+                <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. <a href="">Go further ...</a></p>
+                <img src="https://via.placeholder.com/75" alt="Discover Photo" class = "discoverPicture">
+            </div>
+        </section>
 
-            <section title ="discoverThirdBlock">
-                <div class="discoverThirdBlock">
-                    <img src="https://via.placeholder.com/75" alt="Discover Photo" class  ="discoverPicture">
-                    <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. 
-                <a href="">Go further ...</a></p>	
-                </div>
-            </section>
-
-
-    <script src="templateGenreJS.js"></script>
-
+        <section title ="discoverThirdBlock">
+            <div class="discoverThirdBlock">
+                <img src="https://via.placeholder.com/75" alt="Discover Photo" class  ="discoverPicture">
+                <p class = "discoverBlockDisposition">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur eget felis in ante consequat dignissim. 
+            <a href="">Go further ...</a></p>	
+            </div>
+        </section>
     </main>
 
-    <?php include "footer.php"?>
-    <script src="menuBurger.js"></script>
-    <script src="searchBar.js"></script>
-    <script src="headerFooter.js"></script>
+    <?php include "../PHP/footer.php"?>
+    <script src="../JavaScript/menuBurger.js"></script>
+    <script src="../JavaScript/searchBar.js"></script>
+    <script src="../JavaScript/templateGenreJS.js"></script>
+    <script src="../JavaScript/headerFooter.js"></script>
 </body>
 </html>

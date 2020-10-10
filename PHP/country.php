@@ -3,19 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel = "stylesheet" href = "mainStyle.css">
-    <link rel="stylesheet" href="menuBurger.css">
-    <link rel="stylesheet" type="text/css" href="templateGenreStyle.css"/>
-    <link rel="stylesheet" href="templateBlueStyle.css">
+    <link rel = "stylesheet" href = "../Style/mainStyle.css">
+    <link rel="stylesheet" href="../Style/menuBurger.css">
+    <link rel="stylesheet" type="text/css" href="../Style/templateGenreStyle.css"/>
+    <link rel="stylesheet" href="../Style/templateBlueStyle.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>MusicTionary</title>
 </head>
 <body>
-    <?php include "header.php"?>
+    <?php include "../PHP/header.php"?>
   
     <main>
 
         <section title = "Genre">
-            <p><img src="Images/countryMain.jpg" alt="Main Title Genre" class="mainTitleGenre"></p>
+            <p><img src="../Images/countryMain.jpg" alt="Main Title Genre" class="mainTitleGenre"></p>
             <div class  = "mainTextePresentation">
                 <p>Country (also called country and western) is a genre of popular music that takes its roots from genres such as blues and old-time music, and various types of American folk music including Appalachian, Cajun, 
                 and the cowboy Western music styles of Red Dirt, New Mexico, Texas country, and Tejano. </p>
@@ -51,7 +52,7 @@
         <hr class="blockSeparator"/> 
         <section title = "discoverFirstBlock">
             <div class="discoverFirstBlock">
-                <img src="Images/countryFolk.jpg" alt="Discover Photo" class = "discoverPicture">
+                <img src="../Images/countryFolk.jpg" alt="Discover Photo" class = "discoverPicture">
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">FOLK : </span><br><br> Traditional folk music has been defined in several ways: 
                 as music transmitted orally, music with unknown composers, or music performed by custom over a long 
                 period of time. 
@@ -66,13 +67,13 @@
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">WESTERN MUSIC : </span><br><br> Western music celebrates the lifestyle of the 
                 cowboy on the open ranges, Rocky Mountains, and prairies of Western North America. 
                 <a href="https://www.youtube.com/watch?v=eMqKv7BOg_s" class="hideGoFurther" target="_blank">Go further ...</a></p>
-                <img src="Images/countryWestern.jpg" alt="Discover Photo" class = "discoverPicture">
+                <img src="../Images/countryWestern.jpg" alt="Discover Photo" class = "discoverPicture">
             </div>
         </section>
         <hr class="blockSeparator" />
         <section title ="discoverThirdBlock">
             <div class="discoverThirdBlock">
-                <img src="Images/countryBanjo.jpg" alt="Discover Photo" class  ="discoverPicture">
+                <img src="../Images/countryBanjo.jpg" alt="Discover Photo" class  ="discoverPicture">
                 <p class = "discoverBlockDisposition"><span class="subGenreTitle">BANJO MUSIC : </span><br><br> Banjo Country is a genre of music that consists 
                 exclusively, or primarily of, the banjo. Banjo music can be played as a solo, or it can be played 
                 with a band. 
@@ -82,10 +83,10 @@
         </section>
         
     </main>
-    <?php include "footer.php"?>
-    <script src="menuBurger.js"></script>
-    <script src="searchBar.js"></script>
-    <script src="country.js"></script>
-    <script src="headerFooter.js"></script>
+    <?php include "../PHP/footer.php"?>
+    <script src="../JavaScript/menuBurger.js"></script>
+    <script src="../JavaScript/searchBar.js"></script>
+    <script src="../JavaScript/country.js"></script>
+    <script src="../JavaScript/headerFooter.js"></script>
 </body>
 </html>

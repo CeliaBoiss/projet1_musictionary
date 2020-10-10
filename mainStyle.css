@@ -105,6 +105,10 @@ footer {
     justify-content : space-evenly;
 }
 
+.aFooter {
+    text-decoration: none;
+}
+
 .footerLink {
     margin : 5px 0 0 0;
     padding : 0;
@@ -146,7 +150,6 @@ p , span{
     border: none;
     outline: none;
     background-color: red;
-    color: white;
     cursor: pointer;
     padding: 15px;
     border-radius: 50%;

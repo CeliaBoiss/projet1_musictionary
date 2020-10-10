@@ -1,6 +1,6 @@
-mybutton = document.getElementById('returnTop');
-myTitle = document.getElementById('title');
-myLetters = document.querySelectorAll('.letterRed');
+const mybutton = document.getElementById('returnTop');
+const myTitle = document.getElementById('title');
+const myLetters = document.querySelectorAll('.letterRed');
 
 //Make the letters M and T go a different red when the title is mouseover
 function changeColorTitle () {

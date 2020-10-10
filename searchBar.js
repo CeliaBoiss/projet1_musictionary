@@ -1,5 +1,7 @@
 const searchButton = document.querySelector('#searchButton');
+const inputSearch = document.getElementById('searchBar');
 
+//Open a page when user write a key word and trigger the search button
 function findThePage () 
 {
     let mySearch = document.querySelector('#searchBar').value; 
@@ -34,4 +36,14 @@ function findThePage ()
     }
 }
 
+//Trigger the search when enter key is press on keyboard
+function enterKeyboard(event) 
+{
+    if (event.keyCode === 13) {
+        event.preventDefault();
+        searchButton.click();
+    }
+}
+
 searchButton.addEventListener('click',findThePage);
+inputSearch.addEventListener('keyup', enterKeyboard);

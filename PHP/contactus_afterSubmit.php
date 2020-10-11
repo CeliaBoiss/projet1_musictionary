@@ -14,15 +14,15 @@
         include "../PHP/header.php";?> 
     <main>
         <section>
-            <h4>Merci <?php echo $_GET['name'] ?> pour ton message, nous revenons vers toi dans les plus brefs delais !</h4>
-            <p id="timer">Tu seras redirigé vers l'accueil dans 10 seconde(s) ...</p>
-            <a href="../public/index.php">Revenir tout de suite à l'accueil</a>
-            <p>Récapitulatif de ton message :</p>
+            <h4>Than you <?php echo htmlentities($_GET['name']) ?> for your message, we will get back to you as soon as possible !</h4>
+            <p id="timer">You will be redirected to our home page in 10 seconds(s) ...</p>
+            <a href="../public/index.php">Get back to home page now.</a>
+            <p>Recap of your message :</p>
             <ul>
-                <li>Your name : <?php echo $_GET['name'] ?></li>
-                <li>Your email : <?php echo $_GET['email'] ?></li>
-                <li>Your subject : <?php echo $_GET['subject'] ?></li>
-                <li>Your message : <?php echo $_GET['message'] ?></li>
+                <li>Your name : <?php echo htmlentities($_GET['name']) ?></li>
+                <li>Your email : <?php echo htmlentities($_GET['email']) ?></li>
+                <li>Your subject : <?php echo htmlentities($_GET['subject']) ?></li>
+                <li>Your message : <?php echo htmlentities($_GET['message']) ?></li>
             </ul>
         </section>
     </main>

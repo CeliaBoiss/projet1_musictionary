@@ -1,5 +1,5 @@
 function openNav() {
-    if (window.matchMedia("(min-width: 812px)").matches) {
+    if (window.matchMedia("(min-width: 813px)").matches) {
         document.getElementById('mySideNav').style.width = "250px";
     } else {
         document.getElementById('mySideNav').style.width = "160px";

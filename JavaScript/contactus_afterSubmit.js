@@ -5,7 +5,7 @@ let seconds = 10;
 function removeSecond()
 {
     if (seconds >= 0) {
-        myTimer.innerHTML = "Tu seras redirigé vers l'accueil dans " + seconds + " seconde(s) ...";
+        myTimer.innerHTML = "You will be redirected to our home page in " + seconds + " seconds(s) ...";
         seconds--;
     }
 }

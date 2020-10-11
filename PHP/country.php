@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="../Style/templateGenreStyle.css"/>
     <link rel="stylesheet" href="../Style/templateBlueStyle.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>MusicTionary</title>
+    <title>Country - MusicTionary</title>
 </head>
 <body>
     <?php include "../PHP/header.php"?>
@@ -53,7 +53,7 @@
         <section title = "discoverFirstBlock">
             <div class="discoverFirstBlock">
                 <img src="../Images/countryFolk.jpg" alt="Discover Photo" class = "discoverPicture">
-                <p class = "discoverBlockDisposition"><span class="subGenreTitle">FOLK : </span><br><br> Traditional folk music has been defined in several ways: 
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">FOLK : </span><br><br>Traditional folk music has been defined in several ways: 
                 as music transmitted orally, music with unknown composers, or music performed by custom over a long 
                 period of time. 
                 <a href="https://www.youtube.com/watch?v=AI1rAyllOSU&list=PL-bvrZjsC284y8bvgjtYWonbW_a0P_i6h&index=2" class="hideGoFurther" target="_blank">Go further ...</a></p>
@@ -64,7 +64,7 @@
         <section title ="discoverSecondBlock">
             <div class= "discoverSecondBlock">
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/eMqKv7BOg_s"   allow="autoplay; encrypted-med" allowfullscreen></iframe>
-                <p class = "discoverBlockDisposition"><span class="subGenreTitle">WESTERN MUSIC : </span><br><br> Western music celebrates the lifestyle of the 
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">WESTERN MUSIC : </span><br><br>Western music celebrates the lifestyle of the 
                 cowboy on the open ranges, Rocky Mountains, and prairies of Western North America. 
                 <a href="https://www.youtube.com/watch?v=eMqKv7BOg_s" class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <img src="../Images/countryWestern.jpg" alt="Discover Photo" class = "discoverPicture">
@@ -74,7 +74,7 @@
         <section title ="discoverThirdBlock">
             <div class="discoverThirdBlock">
                 <img src="../Images/countryBanjo.jpg" alt="Discover Photo" class  ="discoverPicture">
-                <p class = "discoverBlockDisposition"><span class="subGenreTitle">BANJO MUSIC : </span><br><br> Banjo Country is a genre of music that consists 
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">BANJO MUSIC : </span><br><br>Banjo Country is a genre of music that consists 
                 exclusively, or primarily of, the banjo. Banjo music can be played as a solo, or it can be played 
                 with a band. 
                 <a href="https://www.youtube.com/watch?v=B9FzVhw8_bY" class="hideGoFurther" target="_blank">Go further ...</a></p>

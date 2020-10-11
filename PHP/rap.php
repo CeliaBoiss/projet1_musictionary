@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../Style/templateGenreStyle.css"/>
     <link rel="stylesheet" type="text/css" href="../Style/templateGreenStyle.css"/>
-    <title>MusicTionary</title>
+    <title>Rap - MusicTionary</title>
 </head>
 <body>
     <?php include "../PHP/header.php"?>
@@ -45,7 +45,7 @@
         <section title = "discoverFirstBlock">
             <div class="discoverFirstBlock">
                 <img src="../Images/rapGangsta.png" alt="Discover Photo" class = "discoverPicture">
-                <p class = "discoverBlockDisposition"><span class="subGenreTitle">GANGSTA RAP :</span><br><br> A subgenre of hip hop music that emerged on ths US West Coast in the mid to late 1980s as a distinct rap subgenre. 
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">GANGSTA RAP :</span><br><br>A subgenre of hip hop music that emerged on ths US West Coast in the mid to late 1980s as a distinct rap subgenre. 
                 <a href="https://www.youtube.com/watch?v=ADdpLv3RDhA" class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/ADdpLv3RDhA" allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>
@@ -54,7 +54,7 @@
         <section title ="discoverSecondBlock">
             <div class= "discoverSecondBlock">
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/Fvbe-DEl7ko" allow="autoplay; encrypted-med" allowfullscreen></iframe>
-                <p class = "discoverBlockDisposition"><span class="subGenreTitle">POLITICAL RAP :</span><br><br>a subgenre of hip hop music that was developed in the 1980s as a way of turning rap music into a call for political and/or social action and a form of social activism. 
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">POLITICAL RAP :</span><br><br>A subgenre of hip hop music that was developed in the 1980s as a way of turning rap music into a call for political and/or social action and a form of social activism. 
                 <a href="https://www.youtube.com/watch?v=Fvbe-DEl7ko" class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <img src="../Images/rapConscient.png" alt="Discover Photo"  class = "discoverPicture">
             </div>
@@ -63,7 +63,7 @@
         <section title ="discoverThirdBlock">
             <div class="discoverThirdBlock">
                 <img src="../Images/rapMumble.png" alt="Discover Photo" class  ="discoverPicture">
-                <p class = "discoverBlockDisposition"><span class="subGenreTitle">MUMBLE RAP :</span><br><br> Caracterized by a mumbling or unclear vocal delivery by artists. While the term has been widely criticized as inaccurate or as a derogatory term, some artists have reclaimed the it. 
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">MUMBLE RAP :</span><br><br>Caracterized by a mumbling or unclear vocal delivery by artists. While the term has been widely criticized as inaccurate or as a derogatory term, some artists have reclaimed the it. 
                 <a href="https://www.youtube.com/watch?v=Q10AqolSgQg" class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/Q10AqolSgQg" allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>

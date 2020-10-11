@@ -9,6 +9,7 @@ let urlSecond = "https://www.youtube.com/embed/_kwmhnpRwmY";
 let urlThird = "https://www.youtube.com/embed/KNz01ty-kTQ";
 
 const moreInfo= document.querySelector('#moreInfo');
+const clickInfo = document.querySelector('#clickInfo');
 
 function showFirstVideo()
 {
@@ -45,7 +46,7 @@ function showMoreInfo()
     }
 }
 
-moreInfo.addEventListener("click", showMoreInfo);
+clickInfo.addEventListener("click", showMoreInfo);
 
 firstVideo.addEventListener("click", showFirstVideo);
 secondVideo.addEventListener("click", showSecondVideo);

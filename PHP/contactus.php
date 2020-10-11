@@ -13,7 +13,7 @@
         <?php include "../PHP/header.php"?>
         <main>
             <h2>Contact Us</h2>
-            <form action="../PHP/contactus_afterSubmit.php">
+            <form action="../PHP/contactus_afterSubmit.php" method="post">
                 <label for = "name">What's your name?</label>
                 <input class = "contactInput"  id = "name" type="text" placeholder="Mick Jagger" name="name" required>
                 <label for = "email">What's your email adress?</label>

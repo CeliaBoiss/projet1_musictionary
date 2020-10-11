@@ -156,7 +156,7 @@ p , span{
     transition: all 0.1s ease-in-out;
   }
 
-@media screen and (min-width : 812px) {
+@media screen and (min-width : 813px) {
 
     main {
         width : 90vw;

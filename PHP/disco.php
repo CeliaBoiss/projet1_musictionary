@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
     <link rel="stylesheet" type="text/css" href="../Style/templateGenreStyle.css"/>
     <link rel="stylesheet" type="text/css" href="../Style/templateOrangeStyle.css"/>
-    <title>MusicTionary</title>
+    <title>Disco - MusicTionary</title>
 </head>
 <body>
     <?php include "../PHP/header.php"?>
@@ -57,8 +57,7 @@
         <section title ="discoverSecondBlock">
             <div class= "discoverSecondBlock">
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/uY4cVhXxW64"  allow="autoplay; encrypted-med" allowfullscreen></iframe>
-                <p class = "discoverBlockDisposition"><span class="subGenreTitle">FUNK : </span><br><br>Emerged in the mid-1960s in the United States, and that developed in the 1960s and 1970s, 
-                is characterized by the presence of rhythmic section (guitar, bass, drums), brass or saxophones on rhythmic punctuation (riffs) or solos. 
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">FUNK : </span><br><br>Funk emerged in the mid-1960s in the United States, and developed in the 1960s and 1970s. It's characterized by the presence of rhythmic section (guitar, bass, drums), brass or saxophones on rhythmic punctuation (riffs) or solos. 
                 <a href="https://www.youtube.com/watch?v=uY4cVhXxW64" class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <img src="../Images/funk.png" alt="Discover Photo" class = "discoverPicture">
             </div>

@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../Style/templateBlueStyle.css"/>
     <link rel="stylesheet" type="text/css" href="../Style/templateGenreStyle.css"/>
-    <title>MusicTionary</title>
+    <title>Ska - MusicTionary</title>
 </head>
 <body>
     <?php include "../PHP/header.php"?>
@@ -46,7 +46,7 @@
         <section title = "discoverFirstBlock">
                 <div class="discoverFirstBlock">
                     <img src="../Images/reggae.jpg" alt="Discover Photo" class = "discoverPicture">
-                    <p class = "discoverBlockDisposition"><span class="subGenreTitle">REGGAE : </span><br><br> is a music genre that originated in Jamaica in the late 1960s. The term also denotes the modern popular music of Jamaica and its diaspora.
+                    <p class = "discoverBlockDisposition"><span class="subGenreTitle">REGGAE : </span><br><br>A music genre that originated in Jamaica in the late 1960s. The term also denotes the modern popular music of Jamaica and its diaspora.
                     <a href="https://www.youtube.com/watch?v=NUn3lj64oNw" class="hideGoFurther" target="_blank">Go further ...</a></p>
                     <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/NUn3lj64oNw" allow="autoplay; encrypted-med" allowfullscreen></iframe>
                 </div>
@@ -55,7 +55,7 @@
         <section title ="discoverSecondBlock">
             <div class= "discoverSecondBlock">
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/DhKHAopx7D0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
-                <p class = "discoverBlockDisposition"><span class="subGenreTitle">SKA PUNK : </span><br><br>(also spelled ska-punk) is a fusion genre that mixes ska music and punk rock music together.
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">SKA PUNK : </span><br><br>A fusion genre that mixes ska music and punk rock music together.
                 <a href="https://www.youtube.com/embed/DhKHAopx7D0"  class="hideGoFurther"  target="_blank">Go further ...</a></p>
                 <img src="../Images/skapunk.jpg" alt="Discover Photo" class = "discoverPicture">
             </div>
@@ -64,7 +64,7 @@
         <section title ="discoverThirdBlock">
             <div class="discoverThirdBlock">
                 <img src="../Images/dub.jpeg" alt="Discover Photo" class  ="discoverPicture">
-                <p class = "discoverBlockDisposition"><span class="subGenreTitle">DUB : </span><br><br> is a genre of electronic music that grew out of reggae in the late 1960s and early 1970s, and is commonly considered a subgenre, though it has developed to extend beyond the scope of reggae.
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">DUB : </span><br><br>A genre of electronic music that grew out of reggae in the late 1960s and early 1970s, and is commonly considered a subgenre, though it has developed to extend beyond the scope of reggae.
                 <a href="https://www.youtube.com/watch?v=QTP5I4x1Yr0" class="hideGoFurther" target="_blank">Go further ...</a></p>
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/QTP5I4x1Yr0" allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>

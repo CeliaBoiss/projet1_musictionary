@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../Style/templateGenreStyle.css"/>
     <link rel="stylesheet" type="text/css" href="../Style/templateOrangeStyle.css"/>
-    <title>MusicTionary</title>
+    <title>Electro - MusicTionary</title>
 </head>
 <body>
     <?php include "../PHP/header.php"?>
@@ -64,7 +64,7 @@
         <section title ="discoverThirdBlock">
             <div class="discoverThirdBlock">
                 <img src="../Images/techno.jpg" alt="Discover Photo" class  ="discoverPicture">
-                <p class = "discoverBlockDisposition"><span class="subGenreTitle">TECHNO : </span><br><br> Techno is a genre of electronic music that emerged in the United States in the mid-1980s. 
+                <p class = "discoverBlockDisposition"><span class="subGenreTitle">TECHNO : </span><br><br>Techno is a genre of electronic music that emerged in the United States in the mid-1980s. 
                 <a href="https://www.youtube.com/watch?v=SbZDaD00UXk"  class="hideGoFurther" target="_blank">Go further ...</a></p>	
                 <iframe class="hideVideo" width="0" height="0" src="https://www.youtube.com/embed/SbZDaD00UXk" allow="autoplay; encrypted-med" allowfullscreen></iframe>
             </div>

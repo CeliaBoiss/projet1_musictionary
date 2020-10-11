@@ -7,7 +7,7 @@
         <link rel = "stylesheet" href = "../Style/contactusStyle.css">
         <link rel="stylesheet" href="../Style/menuBurger.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <title>MusicTionary</title>
+        <title>Contact Us - MusicTionary</title>
     </head>
     <body>
         <?php include "../PHP/header.php"?>
